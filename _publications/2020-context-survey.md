@@ -13,7 +13,7 @@ Semantic parsing is the task of translating natural language utterances into mac
 
 Citation:
 ---
-'''
+```
 @inproceedings{li2020context,
   title={Context Dependent Semantic Parsing: A Survey},
   author={Li, Zhuang and Qu, Lizhen and Haffari, Gholamreza},
@@ -21,4 +21,4 @@ Citation:
   pages={2509--2521},
   year={2020}
 }
-'''
+```
