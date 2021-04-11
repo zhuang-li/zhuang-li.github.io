@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-04-few-shot-semantic-parsing
 excerpt: 'This paper is about the few-shot semantic parsing.'
 date: 2021-04-19
-venue: 'EACL 2021'
+venue: 'EACL'
 paperurl: 'https://arxiv.org/abs/2101.10708'
 citation: 'Li, Z., Qu, L., Huang, S., & Haffari, G. Few-shot Learning for Semantic Parsing. 16th conference of the European Chapter of the Association for Computational Linguistics'
 
