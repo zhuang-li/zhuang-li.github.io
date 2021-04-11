@@ -25,6 +25,7 @@ News
 * **May 2021** I will be an intern at [[Opensteam.ai]](https://www.openstream.ai/os-about.html) under the supervision of Phil Cohen.
 * **April 2021** I am presenting our work, [[Few-shot Semantic Parsing for New Predicates]](https://arxiv.org/pdf/2101.10708.pdf) at EACL.
 * ~~**Mar 2021** I passed my progress review. [[Slides]](https://monashuni-my.sharepoint.com/:p:/g/personal/zhuang_li_monash_edu/EdZxR47jSxRIm2zjMsSDl_MBo8CPBrNwcrLd1XAs38oR8w?e=QBQHuv)~~
+*  ~~**Jan 2021** Two papers, [[Few-shot Semantic Parsing for New Predicates]](https://arxiv.org/abs/2101.10708) and [[On Robustness of Neural Semantic Parsers]](https://arxiv.org/abs/2102.01563), are accepted to EACL 2021.~~
 
 More about me.
 ------
