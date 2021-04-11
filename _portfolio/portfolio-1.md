@@ -4,4 +4,4 @@ excerpt: "The collection of research resources for the context-dependent semanit
 collection: portfolio
 ---
 
-The collection of research resources for the context-dependent semanitc parsing.
+The collection of research resources for the context-dependent semanitc parsing. The [[github link]](https://github.com/zhuang-li/Contextual-Semantic-Parsing-Paper-List).
