@@ -1,7 +1,7 @@
 ---
 title: "Context Dependent Semantic Parsing: A Survey"
 collection: publications
-permalink: /publication/2020-context-survey
+permalink: /publication/2020-context-parsing-survey
 excerpt: 'This paper is a survey about the context dependent semantic parsing.'
 date: 2020-12
 venue: 'COLING2020'
