@@ -1,6 +1,6 @@
 ---
 permalink: /readings_watchings/
-title: "My Readings and Watching"
+title: "My favorite books and movies."
 author_profile: true
 redirect_from: 
   - /md/
@@ -18,7 +18,7 @@ Readings
 * [[The Intelligent Investor]](https://en.wikipedia.org/wiki/The_Intelligent_Investor)
 * [[Principles]](https://en.wikipedia.org/wiki/Principles_(book))
 * [[The Lord of the Rings]](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
-* [[Collection of William Shakespeare Books & Novels]]
+* Collection of William Shakespeare Books & Novels
 
 Movies
 ======
