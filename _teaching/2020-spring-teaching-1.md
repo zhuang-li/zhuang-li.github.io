@@ -1,5 +1,5 @@
 ---
-title: "Tutor at FIT5125"
+title: "Tutor of FIT5125, IT research methods"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2020-spring-teaching-1
