@@ -11,22 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering in Electrical engineering, Wuhan University of Science and Technology, 2013
+* Master of Computing (Advenced) in Artificial Intelligence , the Australian National University, 2015
+* Doctor of Philosophy in Natural Language Processing, Monash University, 2022 (expected)
 
-Work experience
+Academic Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 03/2015 – 06/2016: Visiting Student
+  * National ICT Australia Ltd (NICTA)
+  * Supervisor: Dr. Lizhen Qu
+  * Duties included: 
+    * Conducted master’s thesis research.
+    * Worked on improving the performance of relation extraction systems using various deep neural relation extraction models and unsupervised representation learning approaches.
+    * Helped develop NICTA's private deep learning toolkit DL-IE which includes common deep learning algorithms for natural language processing tasks.
+    * One article was published in the Workshop of The Australasian Language Technology Association.
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+Professional Experience
+======
+
 Skills
 ======
 * Skill 1
@@ -54,6 +61,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Services
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for [[The journal of Artificial Intelligence (AIJ)]](https://www.journals.elsevier.com/artificial-intelligence)
+
+Awards
+======
+*
+*
+*
