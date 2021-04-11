@@ -30,21 +30,19 @@ Academic Experience
 Professional Experience
 ======
 * 06/2017 – 12/2018: Software Development Engineer
-* Microsoft Search Technology Center Asia (STCA), Suzhou, China
-* Supervisors: Dr. Yang Yang, Dr. Daxin Jiang
-* Duties included: 
-  * Developed a semantic parsing-based factoid question answering system.
-  * Built a probabilistic taxonomy for the text understanding.
-  * Maintained the language understanding components, including the domain and intent classification models and the slot tagging models, in Cortana question answering system and Bing search engine.
-  * Worked on the new Cortana chat-bot framework design and implementation.
+  * Microsoft Search Technology Center Asia (STCA), Suzhou, China
+  * Supervisors: Dr. Yang Yang, Dr. Daxin Jiang
+  * Duties included: 
+    * Developed a semantic parsing-based factoid question answering system.
+    * Built a probabilistic taxonomy for the text understanding.
+    * Maintained the language understanding components, including the domain and intent classification models and the slot tagging models, in Cortana question answering system and Bing search engine.
+    * Worked on the new Cortana chat-bot framework design and implementation.
 
 * 09/2016 – 06/2017: Engineer
-* Hong Kong Applied Science & Technology Research Institute (ASTRI), Hong Kong, China
-* Duties included: 
-  * Conducted research on machine learning approaches for the time series
-prediction.
-  * Designed and implemented machine learning algorithms for the trading strategy
-generation and portfolio management.
+  * Hong Kong Applied Science & Technology Research Institute (ASTRI), Hong Kong, China
+  * Duties included: 
+    * Conducted research on machine learning approaches for the time series prediction.
+    * Designed and implemented machine learning algorithms for the trading strategy generation and portfolio management.
 
 
 Teaching
