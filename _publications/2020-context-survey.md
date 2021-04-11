@@ -7,6 +7,7 @@ date: 2020-12-05
 venue: 'COLING 2020'
 paperurl: 'https://arxiv.org/abs/2011.00797'
 citation: 'Li, Z., Qu, L., Xu, Q., & Johnson, M. (December 5 th , 2016). Unsupervised Pre-training with Sequence Reconstruction Loss for Deep Relation Extraction Models. Workshop of The Australasian Language Technology Association.'
+
 ---
 Semantic parsing is the task of translating natural language utterances into machine-readable meaning representations. Currently, most semantic parsing methods are not able to utilize contextual information (e.g. dialogue and comments history), which has a great potential to boost semantic parsing performance. To address this issue, context dependent semantic parsing has recently drawn a lot of attention. In this survey, we investigate progress on the methods for the context dependent semantic parsing, together with the current datasets and tasks. We then point out open problems and challenges for future research in this area.
 
