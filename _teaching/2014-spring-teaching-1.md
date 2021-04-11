@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Tutor at FIT5125"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Postgraduate course"
+permalink: https://handbook.monash.edu/2020/units/FIT5125
+venue: "Monash University, Faculty of IT"
+date: 2020-03-01
+location: "Melbourne, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I was a tutor at the FIT5125, IT research methods. The aim of the unit is to prepare Masters students to conduct research across the range of IT sub-disciplines. I was running a workshop with 17 interesting and friendly students. And I earned an average rating, 4.11/5, from the students.
