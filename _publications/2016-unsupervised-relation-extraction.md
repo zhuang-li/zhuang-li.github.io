@@ -3,7 +3,7 @@ title: "Unsupervised Pre-training With Seq2Seq Reconstruction Loss for Deep Rela
 collection: publications
 permalink: /publication/2016-unsupervised-relation-extraction
 excerpt: 'This paper is about using the pre-training technique to improve the relation extraction performance.'
-date: 2016-12
+date: 2016-12-01
 venue: 'ALTA 2016'
 paperurl: 'https://www.aclweb.org/anthology/U16-1006/'
 ---
