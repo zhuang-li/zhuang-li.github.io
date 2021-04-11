@@ -19,6 +19,7 @@ Readings
 * [[Principles]](https://en.wikipedia.org/wiki/Principles_(book))
 * [[The Lord of the Rings]](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
 * Collection of William Shakespeare Books & Novels
+* [[Indiana Jones]](https://en.wikipedia.org/wiki/The_Young_Indiana_Jones_Chronicles)
 
 Movies
 ======
