@@ -1,5 +1,5 @@
 ---
-title: "Context Dependent Semantic Parsing"
+title: "Context Dependent Semantic Parsing: A Survey"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2020-12-08-context-parsing
