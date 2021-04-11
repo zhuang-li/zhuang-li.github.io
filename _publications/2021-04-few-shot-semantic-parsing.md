@@ -3,7 +3,7 @@ title: "Few-Shot Semantic Parsing for New Predicates"
 collection: publications
 permalink: /publication/2021-04-few-shot-semantic-parsing
 excerpt: 'This paper is about the few-shot semantic parsing.'
-date: 2021-04
+date: 2021-04-19
 venue: 'EACL 2021'
 paperurl: 'https://arxiv.org/abs/2101.10708'
 
