@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Zhuang's personal website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi. My name is Zhuang Li, currently a Ph.D. candidate from the Monash University. My research topic is mainly about natural language processing, particularly semantic parsing, which has a wide application in the dialogue system and question answering. During the Ph.D. stage, I am honored to be advised by [[Dr. Lizhen Qu]](https://scholar.google.de/citations?user=cHXZgHUAAAAJ&hl=en), [[Associate Professor ‪Gholamreza Haffari‬]](https://users.monash.edu.au/~gholamrh/) and [[AAAI,ACM, ACL fellow Philip Cohen]](https://www.openstream.ai/os-about.html). I also earned my master's and bachelor's degree from the [[Australian National University]](https://www.anu.edu.au/) and [[Wuhan University of Science and Technology]](http://www.wust.edu.cn/english/) in 2015 and 2013. In the past, I worked in the Carina and Bing Team, [[Microsoft]](https://www.microsoft.com/en-au/), Suzhou, on the dialogue system and the search engine and in the [[ASTRI]](https://www.astri.org/sc/), Hong Kong on the financial applications.
 
 A data-driven personal website
 ======
