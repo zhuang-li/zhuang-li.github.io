@@ -28,4 +28,4 @@ News
 
 More about me.
 ------
-Welcome to browse around to know more about me. I particularly like watching movies and reading books. I like to watch horror and sci-fi movies and reading books about history and economics. And I am an amateur trader in China and the US stock markets and could get 18% profit on average within the recent four years.
+Welcome to browse around to know more about me. I particularly like watching movies and reading books. I like to watch horror and sci-fi movies and reading books about history and economics. And I am an amateur trader in China and the US stock markets and could get 18% profit on average within the recent four years. I am also a Zhihuer. You can follow me @[[Alpaca]](http://www.zhihu.com/people/li-zhuang-72-32).
