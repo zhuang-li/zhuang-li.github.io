@@ -25,6 +25,6 @@ News
 * **April 2021** I am presenting our work, [[Few-shot Semantic Parsing for New Predicates]](https://arxiv.org/pdf/2101.10708.pdf) at EACL.
 * ~~**Mar 2021** I passed my progress review. [[Slides]](https://monashuni-my.sharepoint.com/:p:/g/personal/zhuang_li_monash_edu/EdZxR47jSxRIm2zjMsSDl_MBo8CPBrNwcrLd1XAs38oR8w?e=QBQHuv)~~
 
-For more info
+More about me.
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Welcome to browse around to know more about me. I particularly like watching movies and reading books. I like to watch horror and sci-fi movies and reading books about history and economics. And I am also an amateur trader in China and the US stock markets and could get 18% profit on average within the recent four years.
