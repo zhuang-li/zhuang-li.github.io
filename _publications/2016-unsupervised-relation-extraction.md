@@ -6,6 +6,8 @@ excerpt: 'This paper is about using the pre-training technique to improve the re
 date: 2016-12-20
 venue: 'ALTA'
 paperurl: 'https://www.aclweb.org/anthology/U16-1006/'
+citation: 'Li, Z., Qu, L., Xu, Q., & Johnson, M. Unsupervised Pre-training with Sequence Reconstruction Loss for Deep Relation Extraction Models. Workshop of The Australasian Language Technology Association.'
+
 ---
 Relation extraction models based on deep learning have been attracting a lot of attention recently. Little research is carried out to reduce their need of labeled training data. In this work, we propose an unsupervised pre-training method based on the sequence-to-sequence model for deep relation extraction models. The pre-trained models need only half or even less training data to achieve equivalent performance as the same models without pre-training.
 
