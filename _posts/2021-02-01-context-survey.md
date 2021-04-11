@@ -8,6 +8,4 @@ tags:
   - neural network
 ---
 
-This post will introduce our work, [[Context Dependent Semantic Parsing: A Survey]](https://arxiv.org/abs/2011.00797), in Chinese.
-
-[[Post Link in Zhihu]](https://zhuanlan.zhihu.com/p/349936394)
+This post will introduce our work, [[Context Dependent Semantic Parsing: A Survey]](https://arxiv.org/abs/2011.00797), in Chinese. [[Post Link in Zhihu]](https://zhuanlan.zhihu.com/p/349936394)
