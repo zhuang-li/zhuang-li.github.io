@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhuang Li"
-  avatar           : "profile.png"
+  avatar           : "zhuang-li.github.io/files/WeChat Image_20210411211050.jpg"
   bio              : "Zhuang is a PhD candidate at Monash University."
   location         : "Melbourne, Australia"
   employer         :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "http://www.zhihu.com/people/li-zhuang-72-32" 
+  # zhihu            : "http://www.zhihu.com/people/li-zhuang-72-32" 
 
 
 # Reading Files
