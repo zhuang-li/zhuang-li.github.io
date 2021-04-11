@@ -7,7 +7,7 @@ date: 2016-12
 venue: 'ALTA 2016'
 paperurl: 'https://www.aclweb.org/anthology/U16-1006/'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Relation extraction models based on deep learning have been attracting a lot of attention recently. Little research is carried out to reduce their need of labeled training data. In this work, we propose an unsupervised pre-training method based on the sequence-to-sequence model for deep relation extraction models. The pre-trained models need only half or even less training data to achieve equivalent performance as the same models without pre-training.
 
 [Download paper here](https://www.aclweb.org/anthology/U16-1006/)
 
