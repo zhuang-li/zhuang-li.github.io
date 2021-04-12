@@ -21,10 +21,10 @@ Academic Experience
   * National ICT Australia Ltd (NICTA), Canberra, Australia
   * Supervisor: Dr. Lizhen Qu
   * Duties included: 
-    * Conducted master’s thesis research.
-    * Worked on improving the performance of relation extraction systems using various deep neural relation extraction models and unsupervised representation learning approaches.
-    * Helped develop NICTA's private deep learning toolkit DL-IE which includes common deep learning algorithms for natural language processing tasks.
-    * One article was published in the Workshop of The Australasian Language Technology Association.
+    * Conduct master’s thesis research.
+    * Work on improving the performance of relation extraction systems using both supervised and unsupervised representation learning approaches.
+    * Help develop NICTA's private deep learning toolkit DL-IE which includes common deep learning algorithms for natural language processing tasks.
+    * One article about unsupervised relation extraction was published in the Workshop of The Australasian Language Technology Association (ALTA).
 
 
 Professional Experience
@@ -33,16 +33,17 @@ Professional Experience
   * Microsoft Search Technology Center Asia (STCA), Suzhou, China
   * Supervisors: Dr. Yang Yang, Dr. Daxin Jiang
   * Duties included: 
-    * Developed a semantic parsing-based factoid question answering system.
-    * Built a probabilistic taxonomy for the text understanding.
-    * Maintained the language understanding components, including the domain and intent classification models and the slot tagging models, in Cortana question answering system and Bing search engine.
-    * Worked on the new Cortana chat-bot framework design and implementation.
+    * Develop a semantic parsing-based factoid question answering system.
+    * Build a probabilistic taxonomy for the text understanding.
+    * Maintain the language understanding components, including the domain and intent classification models and the slot tagging models, for the dialogue system, Cortana.
+    * Extract features for the relevance ranking of the search engine, Bing.
+    * Work on the new Cortana chat-bot framework design and implementation.
 
 * 09/2016 – 06/2017: Engineer
   * Hong Kong Applied Science & Technology Research Institute (ASTRI), Hong Kong, China
   * Duties included: 
-    * Conducted research on machine learning approaches for the time series prediction.
-    * Designed and implemented machine learning algorithms for the trading strategy generation and portfolio management.
+    * Develop machine learning approaches for the time series prediction.
+    * Design and implement machine learning algorithms for the automatic generation of trading strategies and portfolio management.
 
 
 Teaching
