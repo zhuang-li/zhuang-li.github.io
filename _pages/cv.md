@@ -23,8 +23,8 @@ Academic Experience
   * Duties included: 
     * Conduct master’s thesis research.
     * Work on improving the performance of relation extraction systems using both supervised and unsupervised representation learning approaches.
-    * Help develop NICTA's private deep learning toolkit DL-IE which includes common deep learning algorithms for natural language processing tasks.
-    * One article about unsupervised relation extraction was published in the Workshop of The Australasian Language Technology Association (ALTA).
+    * Participant in the implementation of NICTA's private deep learning toolkit, DL-IE. DL-IE includes common deep learning algorithms for various natural language processing tasks.
+    * Get one article about unsupervised relation extraction published in the Workshop of The Australasian Language Technology Association (ALTA).
 
 
 Professional Experience
@@ -33,11 +33,11 @@ Professional Experience
   * Microsoft Search Technology Center Asia (STCA), Suzhou, China
   * Supervisors: Dr. Yang Yang, Dr. Daxin Jiang
   * Duties included: 
-    * Develop a semantic parsing-based factoid question answering system.
-    * Build a probabilistic taxonomy for the text understanding.
-    * Maintain the language understanding components, including the domain and intent classification models and the slot tagging models, for the dialogue system, Cortana.
-    * Extract features for the relevance ranking of the search engine, Bing.
-    * Work on the new Cortana chat-bot framework design and implementation.
+    * Participant in the design and implementation of a semantic parsing-based factoid question answering system.
+    * Participant in the design and implementation of a probabilistic taxonomy for text understanding.
+    * Maintain the language understanding components, including the domain and intent classification models and the slot tagging models, in the dialogue system, Cortana.
+    * Extract features for relevance ranking of the search engine, Bing.
+    * Participant in the design and implementation of the new Cortana chat-bot framework.
 
 * 09/2016 – 06/2017: Engineer
   * Hong Kong Applied Science & Technology Research Institute (ASTRI), Hong Kong, China
