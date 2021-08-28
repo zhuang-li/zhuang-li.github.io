@@ -25,7 +25,7 @@ Research Interests
 
 News
 ======
-* **Sep 2021** I am currently taking intern at Adobe Research under the supervision of Dr. ‪Quan Hung Tran‬. In the meantime, I am also a casual consultant at Opensteam.ai.
+* **Sep 2021** I am currently taking an internship at Adobe Research under the supervision of Dr. ‪Quan Hung Tran‬. In the meantime, I am also a casual consultant at Opensteam.ai.
 * **Aug 2021** A paper in continual learning and semantic parsing is accepted by [[EMNLP2021]](https://2021.emnlp.org/).
 *  ~~**May 2021** I will be an intern at [[Opensteam.ai]](https://www.openstream.ai/os-about.html), Seattle remotely under the supervision of Phil Cohen.~~
 *  ~~**April 2021** I am presenting our work, [[Few-shot Semantic Parsing for New Predicates]](https://arxiv.org/pdf/2101.10708.pdf) at EACL.~~
