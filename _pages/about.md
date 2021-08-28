@@ -25,7 +25,7 @@ Research Interests
 News
 ======
 * **Sep 2021** I currently taking intern at Adobe Research under the supervision of Dr. ‪Quan Hung Tran‬. In the meantime, I am also a casual consultant at Opensteam.ai.
-* A paper in continual learning and semantic parsing is accepted by EMNLP2021.
+* A paper in continual learning and semantic parsing is accepted by [[EMNLP2021]](https://2021.emnlp.org/).
 *  ~~**May 2021** I will be an intern at [[Opensteam.ai]](https://www.openstream.ai/os-about.html), Seattle remotely under the supervision of Phil Cohen.~~
 *  ~~**April 2021** I am presenting our work, [[Few-shot Semantic Parsing for New Predicates]](https://arxiv.org/pdf/2101.10708.pdf) at EACL.~~
 * ~~**Mar 2021** I passed my progress review. [[Slides]](https://monashuni-my.sharepoint.com/:p:/g/personal/zhuang_li_monash_edu/EdZxR47jSxRIm2zjMsSDl_MBo8CPBrNwcrLd1XAs38oR8w?e=QBQHuv)~~
