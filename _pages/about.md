@@ -9,7 +9,8 @@ redirect_from:
 ---
 Hi. My name is Zhuang Li, currently a Ph.D. candidate at Monash University. My research topic is mainly about natural language processing, particularly semantic parsing, which has a wide application in the dialogue and question answering systems. During the Ph.D. study, I am honored to be advised by Dr. [[Lizhen Qu]](https://scholar.google.de/citations?user=cHXZgHUAAAAJ&hl=en), Associate Professor [[‪Gholamreza Haffari‬]](https://users.monash.edu.au/~gholamrh/) and AAAI,ACM, ACL fellow [[Phil Cohen]](https://www.openstream.ai/os-about.html). I also earned my master's and bachelor's degrees from the [[Australian National University]](https://www.anu.edu.au/) and [[Wuhan University of Science and Technology]](http://www.wust.edu.cn/english/) in 2015 and 2013. In the past, I worked on the dialogue system and Bing in the STCA NLP group, [[Microsoft]](https://www.microsoft.com/en-au/), Suzhou, and on the financial machine learning applications in the [[ASTRI]](https://www.astri.org/sc/), Hong Kong.
 
-##### I am always interested in collaboration with other researchers in various NLP research topics such as Semantic Parsing, Question Answering, Dialogue System, Adversarial Attack, etc. Welcome to drop me an email if you are interested.
+##### I am always interested in collaboration with other researchers in various NLP research topics such as Semantic Parsing, Question Answering, Dialogue System, Adversarial Attack, etc. 
+##### Welcome to drop me an email if you are interested!
 
 Research Interests
 ======
