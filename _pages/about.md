@@ -1,37 +1,54 @@
 ---
 permalink: /
-title: "Welcome to Zhuang's personal website!"
-excerpt: "About me"
+title: "Welcome to Zhuang Li's Personal Website"
+excerpt: "About Zhuang Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi. My name is Zhuang Li, currently a Ph.D. candidate at Monash University. My research topic is mainly about natural language processing, particularly semantic parsing, which has a wide application in the dialogue and question answering systems. During the Ph.D. study, I am honored to be advised by Dr. [[Lizhen Qu]](https://scholar.google.de/citations?user=cHXZgHUAAAAJ&hl=en), Associate Professor [[‪Gholamreza Haffari‬]](https://users.monash.edu.au/~gholamrh/) and AAAI,ACM, ACL fellow [[Phil Cohen]](https://www.openstream.ai/os-about.html). I also earned my master's and bachelor's degrees from the [[Australian National University]](https://www.anu.edu.au/) and [[Wuhan University of Science and Technology]](http://www.wust.edu.cn/english/) in 2015 and 2013. In the past, I worked on the dialogue system and Bing in the STCA NLP group, [[Microsoft]](https://www.microsoft.com/en-au/), Suzhou, and on the financial machine learning applications in the [[ASTRI]](https://www.astri.org/sc/), Hong Kong.
 
-##### I am always open to collaboration with other researchers in various NLP research topics such as Semantic Parsing, Question Answering, Dialogue System, Adversarial Attack, etc. 
-##### Welcome to drop me an email if you are interested!
+## Greetings
 
-Research Interests
-======
-* Natural Language Processing
-  * Semantic Parsing
-  * Dialogue System
-  * Common-sense Reasoning
-* Machine Learning
-  * Continual Learning 
-  * Meta-Learning
-  * Unsupervised Learning
+Hello! My name is Zhuang Li, and I am currently a research fellow at Monash University, where I also completed my PhD. My research primarily focuses on natural language processing, particularly in semantic parsing, which plays a crucial role in dialogue and question answering systems. Lately, I've pivoted towards social NLP.
 
-News
-======
-* **Sep 2021** I am currently taking an internship at Adobe Research under the supervision of Dr. ‪Quan Hung Tran‬. In the meantime, I am also a casual consultant at Opensteam.ai.
-* **Aug 2021** A paper in continual learning and semantic parsing is accepted by [[EMNLP2021]](https://2021.emnlp.org/).
-*  ~~**May 2021** I will be an intern at [[Opensteam.ai]](https://www.openstream.ai/os-about.html), Seattle remotely under the supervision of Phil Cohen.~~
-*  ~~**April 2021** I am presenting our work, [[Few-shot Semantic Parsing for New Predicates]](https://arxiv.org/pdf/2101.10708.pdf) at EACL.~~
-* ~~**Mar 2021** I passed my progress review. [[Slides]](https://monashuni-my.sharepoint.com/:p:/g/personal/zhuang_li_monash_edu/EdZxR47jSxRIm2zjMsSDl_MBo8CPBrNwcrLd1XAs38oR8w?e=QBQHuv)~~
-*  ~~**Jan 2021** Two papers, [[Few-shot Semantic Parsing for New Predicates]](https://arxiv.org/abs/2101.10708) and [[On Robustness of Neural Semantic Parsers]](https://arxiv.org/abs/2102.01563), are accepted to EACL 2021.~~
+## Education and Mentorship
 
-More about me.
-------
-Welcome to browse around and know more about me. I particularly like watching movies and reading books. I like to watch horror and sci-fi movies and reading books about history and economics. I am also a Zhihuer. You can follow me @[[Alpaca]](http://www.zhihu.com/people/li-zhuang-72-32).
+I was privileged to be mentored by Dr. Lizhen Qu, Associate Professor Gholamreza Haffari, and AAAI, ACM, ACL fellow Phil Cohen during my PhD. I hold master's and bachelor's degrees from the Australian National University and Wuhan University of Science and Technology, respectively.
+
+## Professional Experience
+
+Previously, I worked on dialogue systems and Bing in the STCA NLP group at Microsoft, Suzhou.
+
+## Collaboration and Supervision
+
+I am keen on collaborating in various NLP research areas, including Semantic Parsing, Question Answering, Dialogue Systems, and Adversarial Attack. Additionally, I'm experienced in supervising junior researchers, having guided students to success in top-tier venues and tech giants. I welcome inquiries about collaboration or supervision!
+
+## Research Interests
+
+- **Natural Language Processing**
+  - Semantic Parsing
+  - Dialogue Systems
+  - Common-sense Reasoning
+- **Social NLP**
+
+- **Machine Learning**
+  - Continual Learning
+  - Meta-Learning
+  - Unsupervised Learning
+
+## News and Highlights
+
+- **January 2024**: Collaboration with Ant Group on Large Language Models alignment with social values, with a 500,000 RMB fund.
+- **December 2023**: "Compositional Generalization for Multi-label Text Classification" accepted at AAAI2024.
+- **November 2023**: Collaboration with Ant Group on TMID Dataset accepted at EMNLP.
+- **September 2023**: My PhD thesis approved - "Semantic Parsing in Limited Resource Conditions."
+- **May 2023**: "SocialDial" accepted at SIGIR, exploring Chinese social norm violations in dialogue systems.
+
+## Personal Interests
+
+In my free time, I enjoy watching horror and sci-fi movies and reading books about history and economics. I'm also active on Zhihu and you can follow me @Alpaca.
+
+Feel free to browse around and learn more about me and my work.
+
+[Check out my thesis here](https://bridges.monash.edu/articles/thesis/Semantic_Parsing_in_Limited_Resource_Conditions/24083265)
