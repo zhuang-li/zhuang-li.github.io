@@ -30,7 +30,7 @@ I am keen on collaborating in various NLP research areas, including Semantic Par
   - Semantic Parsing
   - Dialogue Systems
   - Common-sense Reasoning
-- **Social NLP**
+  - Social NLP
 
 - **Machine Learning**
   - Continual Learning
