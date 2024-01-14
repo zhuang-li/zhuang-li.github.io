@@ -24,6 +24,10 @@ Previously, I worked on dialogue systems and Bing in the STCA NLP group at Micro
 
 I am keen on collaborating in various NLP research areas, including Semantic Parsing, Question Answering, Dialogue Systems, and Adversarial Attack. Additionally, I'm experienced in supervising junior researchers, having guided students to success in top-tier venues and tech giants. I welcome inquiries about collaboration or supervision!
 
+### Internship Opportunities
+
+I'm involved in a collaborative project with Ant Group, focusing on the alignment of Large Language Models with social values. This project includes internship opportunities at Ant Group. Interested candidates are encouraged to contact me for more information.
+
 ## Research Interests
 
 - **Natural Language Processing**
