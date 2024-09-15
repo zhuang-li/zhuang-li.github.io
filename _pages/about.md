@@ -22,7 +22,7 @@ Previously, I worked on dialogue systems and Bing in the STCA NLP group at Micro
 
 ## Collaboration and Supervision
 
-I am keen on collaborating in various NLP research areas, including Semantic Parsing, Question Answering, Dialogue Systems, and Adversarial Attack. Additionally, I'm experienced in supervising junior researchers, having guided students to success in top-tier venues and tech giants. I welcome inquiries about collaboration or supervision!
+I am keen on collaborating in various NLP research areas. Additionally, I'm experienced in supervising junior researchers, having guided students to success in top-tier venues and tech giants. I welcome inquiries about collaboration or supervision!
 
 ## Research Interests
 
