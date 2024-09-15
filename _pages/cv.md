@@ -13,7 +13,7 @@ Education
 ======
 * Bachelor of Engineering in Electrical engineering, Wuhan University of Science and Technology, 2013
 * Master of Computing (Advenced) in Artificial Intelligence , the Australian National University, 2015
-* Doctor of Philosophy in Natural Language Processing, Monash University, 2022 (expected)
+* Doctor of Philosophy in Natural Language Processing, Monash University, 2023
 
 Academic Experience
 ======
