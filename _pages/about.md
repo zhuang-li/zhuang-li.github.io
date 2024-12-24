@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome!
 
-Hello! My name is **Zhuang Li**, and I am a **Lecturer at RMIT University** and formerly a **Research Fellow at Monash University**. My expertise lies in **Natural Language Processing (NLP)**, with a focus on **semantic parsing**, **social NLP**, **culturally-inclusive AI**, and **data-efficient NLP**. I am passionate about aligning large language models with diverse social norms to enhance their impact on dialogue systems and question-answering technologies.
+Hello! My name is **Zhuang Li**, and I am a **Lecturer at RMIT University** and formerly a **Research Fellow at Monash University**. My expertise lies in **Natural Language Processing (NLP)**, with a focus on **semantic parsing**, **social NLP**, **culturally-inclusive AI**, and **data-efficient NLP**. I am passionate about aligning large language models with diverse social norms through neural-symbolic methods, enabling inclusive worldwide adoption. My research also focuses on applying semantic parsing to dialogue systems in low-resource settings.
 
 ---
 
