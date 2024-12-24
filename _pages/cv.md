@@ -12,7 +12,7 @@ redirect_from:
 ## Curriculum Vitae
 
 ### Education
-- **Ph.D. in Artificial Intelligence**  
+- **Ph.D. in Natural Language Processing**  
   *Monash University, Melbourne, Australia* (2019–2023)  
   - Thesis: Semantic Parsing in Low Resource Conditions  
   - Supervisors: Dr. Lizhen Qu, Prof. Gholamreza Haffari, Prof. Philip Cohen
@@ -22,7 +22,7 @@ redirect_from:
   - Thesis: Representation Learning for Weakly Supervised Relation Extraction  
   - Supervisor: Dr. Lizhen Qu  
 
-- **B.Eng. in Electronic Information Engineering**  
+- **B.Eng. in Electrical Engineering**  
   *Wuhan University of Science and Technology, Wuhan, China* (2009–2013)
 
 ---
