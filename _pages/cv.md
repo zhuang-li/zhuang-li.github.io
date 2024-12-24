@@ -9,73 +9,67 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Bachelor of Engineering in Electrical engineering, Wuhan University of Science and Technology, 2013
-* Master of Computing (Advenced) in Artificial Intelligence , the Australian National University, 2015
-* Doctor of Philosophy in Natural Language Processing, Monash University, 2023
+## Curriculum Vitae
 
-Academic Experience
-======
-* 03/2015 – 06/2016: Visiting Student
-  * National ICT Australia Ltd (NICTA), Canberra, Australia
-  * Supervisor: Dr. Lizhen Qu
-  * Duties included: 
-    * Conduct master’s thesis research.
-    * Work on improving the performance of relation extraction systems using both supervised and unsupervised representation learning approaches.
-    * Participant in the implementation of NICTA's private deep learning toolkit, DL-IE. DL-IE includes common deep learning algorithms for various natural language processing tasks.
-    * Get one article about unsupervised relation extraction published in the Workshop of The Australasian Language Technology Association (ALTA).
+### Education
+- **Ph.D. in Artificial Intelligence**  
+  *Monash University, Melbourne, Australia* (2019–2023)  
+  - Thesis: Semantic Parsing in Low Resource Conditions  
+  - Supervisors: Dr. Lizhen Qu, Prof. Gholamreza Haffari, Prof. Philip Cohen
 
+- **M.Comp. (Advanced) in Artificial Intelligence**  
+  *Australian National University, Canberra, Australia* (2014–2015)  
+  - Thesis: Representation Learning for Weakly Supervised Relation Extraction  
+  - Supervisor: Dr. Lizhen Qu  
 
-Professional Experience
-======
-* 06/2017 – 12/2018: Software Development Engineer
-  * Microsoft Search Technology Center Asia (STCA), Suzhou, China
-  * Supervisors: Dr. Yang Yang, Dr. Daxin Jiang
-  * Duties included: 
-    * Participant in the design and implementation of a semantic parsing-based factoid question answering system.
-    * Participant in the design and implementation of a probabilistic taxonomy for text understanding.
-    * Maintain the language understanding components, including the domain and intent classification models and the slot tagging models, in the dialogue system, Cortana.
-    * Extract features for relevance ranking of the search engine, Bing.
-    * Participant in the design and implementation of the new Cortana chat-bot framework.
+- **B.Eng. in Electronic Information Engineering**  
+  *Wuhan University of Science and Technology, Wuhan, China* (2009–2013)
 
-* 09/2016 – 06/2017: Engineer
-  * Hong Kong Applied Science & Technology Research Institute (ASTRI), Hong Kong, China
-  * Duties included: 
-    * Develop machine learning approaches for the time series prediction.
-    * Design and implement machine learning algorithms for the automatic generation of trading strategies and portfolio management.
+---
 
+### Professional Experience
+- **Lecturer/Assistant Professor**  
+  *Royal Melbourne Institute of Technology (RMIT), Melbourne, Australia*  
+  *(12/2023 – Present)*  
+  - Teaching and research in natural language processing.
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Services
-======
-* Reviewer for [[The journal of Artificial Intelligence (AIJ)]](https://www.journals.elsevier.com/artificial-intelligence)
+- **Research Fellow (Part-time)**  
+  *Monash University, Melbourne, Australia*  
+  *(02/2023 – 11/2023)*  
+  - Conducted research on cross-lingual, cross-cultural social norms in natural language processing.
 
-Awards
-======
-* IEEE Xtreme Programming Competition 8.0 Team Rank: Australia – 2 , World – Top 100, 10/2014
-* Faculty of Information Technology Research Scholarship
-* Faculty of Information Technology International Postgraduate
-Research Scholarship
+- **Software Developer (Part-time)**  
+  *Openstream.ai, Melbourne, Australia*  
+  *(02/2023 – 11/2023)*  
+  - Developed semantic parsing components for planning-based dialogue systems.
 
-Languages 
-======
-Mandarin (Native Speaker), English
+- **Remote Research Intern**  
+  *Adobe Research, San Jose, USA*  
+  *(09/2021 – 11/2021)*  
+  - Worked on multimodal scene graph parsing.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+- **Remote Research Intern**  
+  *Openstream.ai, Seattle, USA*  
+  *(06/2021 – 09/2021)*  
+  - Focused on automatic data curation for semantic parsing and multi-task semantic parsing.
+
+- **Software Development Engineer**  
+  *Microsoft STCA, Suzhou, China*  
+  *(06/2017 – 12/2018)*  
+  - Maintained the language understanding components for Cortana and Bing search engine.
+
+- **Engineer (Cloud Computing)**  
+  *Hong Kong Applied Science & Technology Research Institute (ASTRI), Hong Kong*  
+  *(09/2016 – 06/2017)*  
+  - Implemented machine learning algorithms for time series prediction, trading strategies, and portfolio management.
+
+- **Visiting Student**  
+  *National ICT Australia Ltd (NICTA), Canberra, Australia*  
+  *(03/2015 – 06/2016)*  
+  - Worked on unsupervised learning and neural relation extraction models.
+
+---
+
+### Languages
+- English: Advanced  
+- Mandarin: Native Speaker
