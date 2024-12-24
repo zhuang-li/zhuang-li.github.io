@@ -16,7 +16,7 @@ author_profile: true
 
 2. MD Vu, H Wang, **Z Li**, J Chen, S Zhao, Z Xing, C Chen, GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning, ACM Symposium on User Interface Software and Technology (UIST), 2024. (***CORE A****)
 
-3. Y Chai, **Z Li**, J Liu, L Chen, F Li, D Ji, C Teng, Compositional Generalization for Multi-label Text Classification: A Data-Augmentation Approach, AAAI Conference on Artificial Intelligence (AAAI), 2024. (***CORE A***)
+3. Y Chai, **Z Li**, J Liu, L Chen, F Li, D Ji, C Teng, Compositional Generalization for Multi-label Text Classification: A Data-Augmentation Approach, AAAI Conference on Artificial Intelligence (AAAI), 2024. (***CORE A****)
 
 4. H Zhan, **Z Li**, X Kang, T Feng, Y Hua, L Qu, Y Ying, MR Chandra, RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations, North American Chapter of the Association for Computational Linguistics Conference (NAACL), 2024. (***CORE A***)
 
@@ -24,16 +24,16 @@ author_profile: true
 
 6. H Zhan, Y Wang, **Z Li**, T Feng, Y Hua, S Sharma, L Qu, I Zukerman, Let's Negotiate! A Survey of Negotiation Dialogue Systems, European Chapter of the Association for Computational Linguistics Conference (EACL) Findings, 2024. (***CORE A***)
 
-7. Z Zeng, S Liu, L Sha, **Z Li**, K Yang, S Liu, D Gašević, G Chen, Detecting AI-Generated Sentences in Human-AI Collaborative Hybrid Texts: Challenges, Strategies, and Insights, International Joint Conference on Artificial Intelligence (IJCAI), AI for Social Good Track, 2024. (***CORE A***)
+7. Z Zeng, S Liu, L Sha, **Z Li**, K Yang, S Liu, D Gašević, G Chen, Detecting AI-Generated Sentences in Human-AI Collaborative Hybrid Texts: Challenges, Strategies, and Insights, International Joint Conference on Artificial Intelligence (IJCAI), AI for Social Good Track, 2024. (***CORE A****)
 
 8. J Liu, B Li, **Z Li**, Y Chai, F Li, C Teng, D Ji, Generative Dialogue Sentiment and Act Recognition with Feature Denoising and Set Prediction, International Conference on Natural Language Processing and Chinese Computing (NLPCC), 2024.
 
-9. S Qu, W Wang, X Zhou, H Zhan, **Z Li**, L Qu, L Luo, YF Li, G Haffari, Scalable Frame-based Construction of Sociocultural NormBases for Socially-Aware Dialogues, ACM Transactions on Multimedia Computing, Communications and Applications (TOMCCAP), 2024.
+9. S Qu, W Wang, X Zhou, H Zhan, **Z Li**, L Qu, L Luo, YF Li, G Haffari, Scalable Frame-based Construction of Sociocultural NormBases for Socially-Aware Dialogues, ACM Transactions on Multimedia Computing, Communications and Applications (TOMM), 2024.
 
 10. D Mollá, Q Xu, Z Zeng, **Z Li**, Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles, Australasian Language Technology Association Workshop (ALTA), 2024.
 
 2023:
-1. T Hu, **Z Li**, X Jin, L Qu, X Zhang, TMID: A Comprehensive Real-world Dataset for Trademark Infringement Detection in E-Commerce, Conference on Empirical Methods in Natural Language Processing (EMNLP), Industry Track, 2023. (***CORE A***)
+1. T Hu, **Z Li**, X Jin, L Qu, X Zhang, TMID: A Comprehensive Real-world Dataset for Trademark Infringement Detection in E-Commerce, Conference on Empirical Methods in Natural Language Processing (EMNLP), Industry Track, 2023. (***CORE A****)
 
 2. **Z Li**, Y Chai, TY Zhuo, L Qu, G Haffari, F Li, D Ji, QH Tran, Factual: A benchmark for faithful and consistent textual scene graph parsing, Association for Computational Linguistics Annual Conference (ACL) Findings, 2023. (***CORE A****)
 
@@ -41,7 +41,7 @@ author_profile: true
 
 4. H Zhan, **Z Li**, Y Wang, L Luo, T Feng, X Kang, Y Hua, L Qu, LK Soon, SocialDial: A Benchmark for Socially-Aware Dialogue Systems, International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), Resource Track, 2023. (***CORE A****)
 
-5. MD Vu, H Wang, **Z Li**, G Haffari, Z Xing, C Chen, Voicify Your UI: Towards Android App Control with Voice Commands, ACM Journal on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2023. (***CORE A***)
+5. MD Vu, H Wang, **Z Li**, G Haffari, Z Xing, C Chen, Voicify Your UI: Towards Android App Control with Voice Commands, ACM Journal on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2023.
 
 6. TY Zhuo, **Z Li**, Y Huang, F Shiri, W Wang, G Haffari, YF Li, On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex, European Chapter of the Association for Computational Linguistics Conference (EACL), 2023. (***CORE A***)
 
