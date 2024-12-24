@@ -8,38 +8,63 @@ redirect_from:
   - /about.html
 ---
 
-## Greetings
+---
+permalink: /
+title: "Welcome to Zhuang Li's Personal Website"
+excerpt: "About Zhuang Li"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-Hello! My name is Zhuang Li, and I am currently a research fellow at Monash University, where I also completed my PhD. My research primarily focuses on natural language processing, particularly in semantic parsing, which plays a crucial role in dialogue and question answering systems. Lately, I've pivoted towards social NLP.
+## Welcome!
 
-## Education and Mentorship
+Hello! My name is **Zhuang Li**, and I am a **Lecturer at RMIT University** and formerly a **Research Fellow at Monash University**. My expertise lies in **Natural Language Processing (NLP)**, with a focus on **semantic parsing**, **social NLP**, **culturally-inclusive AI**, and **data-efficient NLP**. I am passionate about aligning large language models with diverse social norms to enhance their impact on dialogue systems and question-answering technologies.
 
-I was privileged to be mentored by Dr. Lizhen Qu, Professor Gholamreza Haffari, and AAAI, ACM, ACL fellow Phil Cohen during my PhD. I hold master's and bachelor's degrees from the Australian National University and Wuhan University of Science and Technology, respectively.
+---
 
-## Professional Experience
+## About Me
 
-Previously, I worked on dialogue systems and Bing in the STCA NLP group at Microsoft, Suzhou.
+I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen Qu**, **Prof. Gholamreza Haffari**, and **ACL Fellow Phil Cohen**. Throughout my career, I have mentored junior researchers, helping them publish in prestigious venues such as **AAAI**, **EMNLP**, and **EACL**. I am dedicated to fostering innovation and collaboration in the NLP community.
 
-## Collaboration and Supervision
-
-I am keen on collaborating in various NLP research areas. Additionally, I'm experienced in supervising junior researchers, having guided students to success in top-tier venues and tech giants. I welcome inquiries about collaboration or supervision!
+---
 
 ## Research Interests
 
-- **Natural Language Processing**
-  - Semantic Parsing
-  - Efficient NLP
-  - NLP for Social Good
+### Natural Language Processing
+- **Semantic Parsing**: Transforming natural language utterances into machine-readable meaning representations for applications such as dialogue systems.  
+- **Social NLP and Culturally-Inclusive AI**: Aligning AI systems, including large language models, with diverse social norms to ensure inclusivity and cultural sensitivity.  
+- **Data-Efficient NLP**: Enhancing NLP model performance while minimizing the need for large amounts of labeled data.  
 
-- **Machine Learning**
-  - Continual Learning
-  - Active Learning
-  - Semi-supervised Learning
+### Machine Learning
+- **Continual and Active Learning**: Developing models that adapt and improve over time through ongoing learning and active sampling.  
+- **Semi-Supervised Learning**: Leveraging limited labeled data alongside abundant unlabeled data to build robust and efficient models.  
+
+---
 
 ## Personal Interests
 
-In my free time, I enjoy watching horror and sci-fi movies and reading books about history and economics. I'm also active on Zhihu and you can follow me @Alpaca.
+Outside of academia, I enjoy engaging in hobbies that inspire creativity and relaxation, such as gaming, movies, and reading.
 
-Feel free to browse around and learn more about me and my work.
+<details>
+  <summary>Click to learn more about my favourite books, movies, and games</summary>
 
-[Check out my thesis here](https://bridges.monash.edu/articles/thesis/Semantic_Parsing_in_Limited_Resource_Conditions/24083265)
+  - **Gaming**: Titles like *Elden Ring*, *Breath of the Wild*, *Diablo*, and *Red Dead Redemption*  
+  - **Movies**: Sci-fi and fantasy classics like *Star Wars*, *The Lord of the Rings*, and *The Dark Knight*  
+  - **Books**: Works on history and economics, including *Les Misérables* and *The Intelligent Investor*  
+  - I’m also active on **Zhihu**: [@Alpaca](https://www.zhihu.com/people/alpaca)
+
+</details>
+
+---
+
+## Collaboration and Supervision
+
+I am eager to collaborate on innovative NLP and machine learning projects, particularly in semantic parsing, social NLP, data-efficient NLP, and efficient learning methods. I also welcome opportunities to supervise motivated students on cutting-edge research topics.
+
+---
+
+## Connect With Me
+
+[Google Scholar](https://scholar.google.com/citations?user=4uhU0NUAAAAJ) | [LinkedIn](https://www.linkedin.com/in/zhuang-li-68b855b1/) | [GitHub](https://github.com/zhuang-li) | [Zhihu](https://www.zhihu.com/people/alpaca)
