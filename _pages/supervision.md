@@ -27,7 +27,7 @@ I am on these students' formal supervision panels as an external supervisor.
 ---
 
 ### Informal Research Student Supervision
-I am actively engaged in industry and cross-institution collaborations. These students are supervised in collaboration with **Associate Prof. Fei Li**, **Prof. Donghong Ji** at Wuhan University, and Ant Group.
+I am actively engaged in industry and cross-institution collaborations. These students are supervised in collaboration with **Associate Prof. Fei Li**, **Prof. Donghong Ji** at Wuhan University, and engineers at Ant Group.
 
 - **Xuanhong Li** (PhD Student, Wuhan University, 2024–present)  
   - **Research**: Culturally-Aligned LLMs for Norm Compliance and Safety 
