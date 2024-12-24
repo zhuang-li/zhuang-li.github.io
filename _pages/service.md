@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Service"
+title: "Service and Contributions"
 permalink: /service/
 author_profile: true
 redirect_from:
