@@ -38,13 +38,11 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 Outside of academia, I enjoy engaging in hobbies that inspire creativity and relaxation, such as gaming, movies, and reading.
 
 <details>
-  <summary>Click to learn more about my favourite books, movies, and games</summary>
-
-  - **Gaming**: AAA games like *Elden Ring*, *Breath of the Wild*, *Diablo*, *Black Myth, Wukong* and *Red Dead Redemption*  
-  - **Movies**: Sci-fi and fantasy classics like *Star Wars*, *The Lord of the Rings*, and *The Dark Knight*  
-  - **Books**: Works on history and economics, including *Les Misérables* and *The Intelligent Investor*  
-  - I’m also active on **Zhihu**: [@Alpaca](https://www.zhihu.com/people/alpaca)
-
+  <summary>Click to learn more about my favorite books, movies, and games</summary>
+  <p><strong>Gaming:</strong> AAA games like <em>Elden Ring</em>, <em>Breath of the Wild</em>, <em>Diablo</em>, <em>Black Myth: Wukong</em>, and <em>Red Dead Redemption</em>.</p>
+  <p><strong>Movies:</strong> Sci-fi and fantasy classics like <em>Star Wars</em>, <em>The Lord of the Rings</em>, and <em>The Dark Knight</em>.</p>
+  <p><strong>Books:</strong> Works on history and economics, including <em>Les Misérables</em> and <em>The Intelligent Investor</em>.</p>
+  <p>I’m also active on <strong><a href="https://www.zhihu.com/people/alpaca" target="_blank">Zhihu</a></strong> (@Alpaca).</p>
 </details>
 
 ---
