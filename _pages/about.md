@@ -49,9 +49,9 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 Outside of academia, I enjoy engaging in hobbies that inspire creativity and relaxation, such as gaming, movies, and reading.
 
 <details>
-  <summary>Click to learn more about my favorite books, movies, and games</summary>
-  <p><strong>Gaming:</strong> AAA games like <em>Elden Ring</em>, <em>Breath of the Wild</em>, <em>Diablo</em>, <em>Black Myth: Wukong</em>, and <em>Red Dead Redemption</em>.</p>
-  <p><strong>Movies:</strong> Sci-fi and fantasy classics like <em>Star Wars</em>, <em>The Lord of the Rings</em>, and <em>The Dark Knight</em>.</p>
+  <summary>Click to learn more about my favourite books, movies, and games</summary>
+  <p><strong>Gaming:</strong> AAA games like <em>Elden Ring</em>, <em>The Legend of Zelda: Breath of the Wild</em>, <em>The Legend of Zelda: Tears of the kingdom</em>, <em>Diablo II, III, IV</em>, <em>Black Myth: Wukong</em>, <em>Red Dead Redemption</em>, <em>The Witcher 3: Wild Hunt<em>, <em>Cyberpunk 2077<em>, <em>God of War<em> series, etc.</p>
+<p><strong>Movies:</strong> Sci-fi and fantasy classics like <em>Star Wars</em>, <em>The Lord of the Rings</em>, and <em>Batman: The Dark Knight</em>. Other popular favorites include the <em>Indiana Jones</em> series, <em>The Shawshank Redemption</em>, <em>The Silence of the Lambs</em>, <em>Forrest Gump</em>, the <em>Harry Potter</em> series, and the <em>The Chronicles of Narnia</em> series.</p>
   <p><strong>Books:</strong> Works on history and economics, including <em>Les Misérables</em> and <em>The Intelligent Investor</em>.</p>
   <p>I’m also active on <strong><a href="https://www.zhihu.com/people/li-zhuang-72-32" target="_blank">Zhihu</a></strong> (@Alpaca).</p>
 </details>
