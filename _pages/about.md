@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "Welcome to Zhuang Li's Personal Website"
-excerpt: "About Zhuang Li"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ## Welcome!
 
 Hello! My name is **Zhuang Li**, and I am a **Lecturer at RMIT University** and formerly a **Research Fellow at Monash University**. My expertise lies in **Natural Language Processing (NLP)**, with a focus on **semantic parsing**, **social NLP**, **culturally-inclusive AI**, and **data-efficient NLP**. I am passionate about aligning large language models with diverse social norms to enhance their impact on dialogue systems and question-answering technologies.
