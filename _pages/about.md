@@ -42,7 +42,7 @@ Outside of academia, I enjoy engaging in hobbies that inspire creativity and rel
   <p><strong>Gaming:</strong> AAA games like <em>Elden Ring</em>, <em>Breath of the Wild</em>, <em>Diablo</em>, <em>Black Myth: Wukong</em>, and <em>Red Dead Redemption</em>.</p>
   <p><strong>Movies:</strong> Sci-fi and fantasy classics like <em>Star Wars</em>, <em>The Lord of the Rings</em>, and <em>The Dark Knight</em>.</p>
   <p><strong>Books:</strong> Works on history and economics, including <em>Les Misérables</em> and <em>The Intelligent Investor</em>.</p>
-  <p>I’m also active on <strong><a href="https://www.zhihu.com/people/alpaca" target="_blank">Zhihu</a></strong> (@Alpaca).</p>
+  <p>I’m also active on <strong><a href="https://www.zhihu.com/people/li-zhuang-72-32" target="_blank">Zhihu</a></strong> (@Alpaca).</p>
 </details>
 
 ---
@@ -55,4 +55,4 @@ I am eager to collaborate on innovative NLP and machine learning projects, parti
 
 ## Connect With Me
 
-[Google Scholar](https://scholar.google.com/citations?user=4uhU0NUAAAAJ) | [LinkedIn](https://www.linkedin.com/in/zhuang-li-68b855b1/) | [GitHub](https://github.com/zhuang-li) | [Zhihu](https://www.zhihu.com/people/alpaca)
+[Google Scholar](https://scholar.google.com/citations?user=4uhU0NUAAAAJ) | [LinkedIn](https://www.linkedin.com/in/zhuang-li-68b855b1/) | [GitHub](https://github.com/zhuang-li) | [Zhihu](https://www.zhihu.com/people/li-zhuang-72-32)
