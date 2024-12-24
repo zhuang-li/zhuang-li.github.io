@@ -20,6 +20,8 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 
 ---
 
+## News
+
 - **12/02/2024**: I joined **RMIT University** as a Lecturer! 
   - I will be recruiting **1 PhD student** in the 2025 cycle to work on **low-resource languages and culturally-aligned large language models (LLMs)**.  
   - Additionally, I may collaborate with researchers from **RMIT University** and **Monash University** to recruit another PhD student focusing on **multimodal NLP**.  
