@@ -16,11 +16,11 @@ redirect_from:
 I have contributed to several open-source projects that advance **Natural Language Processing (NLP)** and **Machine Learning (ML):**
 
 - **Starcoder2 Project**  
-  - Contributed to the development of an open-source coding LLM, led by Hugging Face.  
+  - Contributed to the development of an open-source coding LLM, led by Hugging Face. 
   - [GitHub Repository](https://github.com/bigcode-project/starcoder2)  
 
-- **Text Scene Graph Parsing**  
-  - Built a text scene graph parsing tool in collaboration with **Adobe** and **Wuhan University**.  
+- **FACTUAL: Text Scene Graph Parsing**  
+  - Built FACTUAL, a text scene graph parser, in collaboration with **Adobe** and **Wuhan University**.  
   - Impact: Downloaded over **31,000 times** from PyPI and **130,000 times** from Hugging Face Models.  
   - [GitHub Repository](https://github.com/zhuang-li/FactualSceneGraph)  
 
