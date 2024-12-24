@@ -85,5 +85,5 @@ author_profile: true
 1. **Z Li**, G Haffari, R Tumuluri, PR Cohen, System and method for active learning based multilingual semantic parser, US Patent App. 18/318,225, 2024.
 
 **Thesis:**
-1. **Z Li**, Semantic Parsing in Limited Resource Conditions, PhD's Thesis at Monash University, 2023.
+1. **Z Li**, [Semantic Parsing in Limited Resource Conditions](https://bridges.monash.edu/articles/thesis/Semantic_Parsing_in_Limited_Resource_Conditions/24083265), PhD's Thesis at Monash University, 2023.
 2. **Z Li**, Representation Learning for Weakly Supervised Relation Extraction, Master's Thesis at Australian National University, 2015.
