@@ -28,17 +28,17 @@ redirect_from:
 ### Professional Experience
 - **Lecturer/Assistant Professor**  
   *Royal Melbourne Institute of Technology (RMIT), Melbourne, Australia*  
-  *(12/2023 – Present)*  
+  *(12/2024 – Present)*  
   - Teaching and research in natural language processing.
 
 - **Research Fellow (Part-time)**  
   *Monash University, Melbourne, Australia*  
-  *(02/2023 – 11/2023)*  
+  *(02/2023 – 11/2024)*  
   - Conducted research on cross-lingual, cross-cultural social norms in natural language processing.
 
 - **Software Developer (Part-time)**  
   *Openstream.ai, Melbourne, Australia*  
-  *(02/2023 – 11/2023)*  
+  *(02/2023 – 11/2024)*  
   - Developed semantic parsing components for planning-based dialogue systems.
 
 - **Remote Research Intern**  
