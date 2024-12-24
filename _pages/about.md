@@ -55,4 +55,7 @@ I am eager to collaborate on innovative NLP and machine learning projects, parti
 
 ## Connect With Me
 
-[Google Scholar](https://scholar.google.com/citations?user=4uhU0NUAAAAJ) | [LinkedIn](https://www.linkedin.com/in/zhuang-li-68b855b1/) | [GitHub](https://github.com/zhuang-li) | [Zhihu](https://www.zhihu.com/people/li-zhuang-72-32)
+- [Google Scholar](https://scholar.google.com/citations?user=4uhU0NUAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/zhuang-li-68b855b1/)
+- [GitHub](https://github.com/zhuang-li)
+- [Zhihu](https://www.zhihu.com/people/li-zhuang-72-32)
