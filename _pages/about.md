@@ -40,7 +40,7 @@ Outside of academia, I enjoy engaging in hobbies that inspire creativity and rel
 <details>
   <summary>Click to learn more about my favourite books, movies, and games</summary>
 
-  - **Gaming**: Titles like *Elden Ring*, *Breath of the Wild*, *Diablo*, and *Red Dead Redemption*  
+  - **Gaming**: AAA games like *Elden Ring*, *Breath of the Wild*, *Diablo*, *Black Myth, Wukong* and *Red Dead Redemption*  
   - **Movies**: Sci-fi and fantasy classics like *Star Wars*, *The Lord of the Rings*, and *The Dark Knight*  
   - **Books**: Works on history and economics, including *Les Misérables* and *The Intelligent Investor*  
   - I’m also active on **Zhihu**: [@Alpaca](https://www.zhihu.com/people/alpaca)
