@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
 **Publication List**
 (Note: Author names are abbreviated for consistency. My name, **Z Li**, is highlighted in the author lists)
 
