@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "Welcome to Zhuang Li's Personal Website"
+excerpt: "About Zhuang Li"
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
+---
+
+
 **Peer-Reviewed Publications:**
 
 2024:
