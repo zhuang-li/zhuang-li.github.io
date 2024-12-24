@@ -20,11 +20,20 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 
 ---
 
+- **12/02/2024**: I joined **RMIT University** as a Lecturer! 
+  - I will be recruiting **1 PhD student** in the 2025 cycle to work on **low-resource languages and culturally-aligned large language models (LLMs)**.  
+  - Additionally, I may collaborate with researchers from **RMIT University** and **Monash University** to recruit another PhD student focusing on **multimodal NLP**.  
+  - **If you are interested in joining, feel free to reach out!**  
+
+- **12/04/2024**: Co-organized the ALTA Shared Task: **Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles**.  
+
+---
+
 ## Research Interests
 
 ### Natural Language Processing
 - **Semantic Parsing**: Transforming natural language utterances into machine-readable meaning representations for applications such as dialogue systems.  
-- **Social NLP and Culturally-Inclusive AI**: Aligning AI systems, including large language models, with diverse social norms to ensure inclusivity and cultural sensitivity.  
+- **Social NLP and Culturally-Inclusive AI**: Aligning NLP systems, including large language models, with diverse social norms to ensure inclusivity and cultural sensitivity.  
 - **Data-Efficient NLP**: Enhancing NLP model performance while minimizing the need for large amounts of labeled data.  
 
 ### Machine Learning
