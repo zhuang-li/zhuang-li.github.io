@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Curriculum Vitae
-
 ### Education
 - **Ph.D. in Natural Language Processing**  
   *Monash University, Melbourne, Australia* (2019–2023)  
