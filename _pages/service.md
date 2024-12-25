@@ -35,8 +35,7 @@ I have contributed to several open-source projects that advance **Natural Langua
 
 I contribute to the academic community by reviewing papers for top-tier conferences and journals:
 
-- **Conferences**: ACL, EMNLP, ICLR, EACL, ACL Rolling Review, AAAI
-- **Journals**: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), The Journal of Artificial Intelligence (AIJ)  
+ACL, EMNLP, ICLR, EACL, ACL Rolling Review, AAAI, AJI
 
 ---
 
