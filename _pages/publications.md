@@ -17,9 +17,9 @@ author_profile: true
 
 3. Y Chai, **Z Li**, J Liu, L Chen, F Li, D Ji, C Teng, Compositional Generalization for Multi-label Text Classification: A Data-Augmentation Approach, AAAI Conference on Artificial Intelligence (AAAI), 2024. (***CORE A****)
 
-4. H Zhan, **Z Li**, X Kang, T Feng, Y Hua, L Qu, Y Ying, MR Chandra, RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations, North American Chapter of the Association for Computational Linguistics Conference (NAACL), 2024. (***CORE A***)
+4. H Zhan, **Z Li**, X Kang, T Feng, Y Hua, L Qu, Y Ying, MR Chandra, RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations, North American Chapter of the Association for Computational Linguistics Conference (NAACL) Findings, 2024. (***CORE A***)
 
-5. **Z Li**, L Haroutunian, R Tumuluri, P Cohen, G Haffari, Improving Cross-Domain Low-Resource Text Generation through LLM Post-Editing: A Programmer-Interpreter Approach, European Chapter of the Association for Computational Linguistics Conference (EACL), 2024. (***CORE A***)
+5. **Z Li**, L Haroutunian, R Tumuluri, P Cohen, G Haffari, Improving Cross-Domain Low-Resource Text Generation through LLM Post-Editing: A Programmer-Interpreter Approach, European Chapter of the Association for Computational Linguistics Conference (EACL) Findings, 2024. (***CORE A***)
 
 6. H Zhan, Y Wang, **Z Li**, T Feng, Y Hua, S Sharma, L Qu, I Zukerman, Let's Negotiate! A Survey of Negotiation Dialogue Systems, European Chapter of the Association for Computational Linguistics Conference (EACL) Findings, 2024. (***CORE A***)
 
