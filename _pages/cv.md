@@ -12,7 +12,7 @@ redirect_from:
 ### Education
 - **Ph.D. in Natural Language Processing**  
   *Monash University, Melbourne, Australia* (2019–2023)  
-  - Thesis: Semantic Parsing in Low Resource Conditions  
+  - Thesis: Semantic Parsing in Limited Resource Conditions  
   - Supervisors: Dr. Lizhen Qu, Prof. Gholamreza Haffari, Prof. Philip Cohen
 
 - **M.Comp. (Advanced) in Artificial Intelligence**  
