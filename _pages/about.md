@@ -88,8 +88,10 @@ Here's a helpful overview for those considering doctoral studies in Australia an
     Note: These are examples from recent successful applications with university scholarship, not fixed requirements. If you aren't selected, please remember this isn't a reflection of your capabilities - stay confident and keep pursuing your goals.<br><br>
     <em><strong>For Australian Residents</strong></em>:
     <ul>
-      <li>The Australian government offers Research Training Program (RTP) scholarships</li>
-      <li>Requirements vary depending on the program and available funding</li>
+    <li>The Australian government provides Research Training Program (RTP) scholarships for domestic students</li>
+    <li>Universities usually offer additional stipends for RTP recipients</li>
+    <li>Typical requirements include a minimum overall grade of 75</li>
+    <li>Still, exact eligibility criteria and funding amounts vary by program and supervisor availability.</li>
     </ul>
   </p>
 </details>
