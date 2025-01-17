@@ -80,8 +80,8 @@ Here's a helpful overview for those considering doctoral studies in Australia an
     - Applications for university scholarships are only accepted during specific periods. For example, RMIT's 2026 scholarship round opens in April 2025. Plan ahead and prepare your application early!<br>
     - Recent successful applicants have typically had:
     <ul>
-      <li>A Master's degree from a QS top 100 ranked university</li>
-      <li>Outstanding academic performance (High Distinction or equivalent grades across different systems - for example, 70+ in British universities or 85+ in Chinese universities)</li>
+      <li>A Master's degree from a prestigious university</li>
+      <li>Strong transcript grades (High Distinction or equivalent grades across different systems - for example, 70+ in British universities or 85+ in Chinese universities)</li>
       <li>Research experience, demonstrated through a first-authored publication in respected venues (such as CORE A or A* conferences)</li>
       <li>English proficiency test scores (such as IELTS overall band 6.5 or equivalent in TOEFL/PTE)</li>
     </ul>
