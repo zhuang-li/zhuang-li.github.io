@@ -46,7 +46,17 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 
 ## Collaboration and Supervision
 
-I am eager to collaborate on innovative NLP and machine learning projects, particularly in semantic parsing, social NLP, data-efficient NLP, and efficient learning methods. I also welcome opportunities to supervise motivated students on cutting-edge research topics.
+I am eager to collaborate on innovative NLP and machine learning projects, particularly in semantic parsing, social NLP and data-efficient NLP.
+
+I welcome:
+- Remote interns with strong research backgrounds for interesting collaborative projects
+- Industry partners from tech companies interested in practical NLP challenges
+
+For PhD supervision at RMIT, I collaborate with senior faculty members (usually professors) at RMIT as part of the supervision team. I welcome applications for:
+- Grant-based students (subject to grant availability)
+- University scholarship applicants (highly competitive)
+
+*Interested? Feel free to reach out by sending your CV and research interests to zhuang.li@rmit.edu.au!*
 
 ---
 
