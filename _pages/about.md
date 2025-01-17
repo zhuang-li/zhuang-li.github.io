@@ -54,6 +54,7 @@ I am eager to collaborate on innovative NLP and machine learning projects, parti
 Here's a helpful overview for those considering doctoral studies in Australia and aren't familiar with the application process:
 <details>
   <summary>Click to learn about <strong>Supervisor-Supported PhD Positions</strong></summary>
+  <p>
     - If your research interests match a supervisor's work, they may support your enrollment directly. The entry requirements are quite flexible and largely depend on the supervisor's discretion.<br>
     - Enrollment through this path can happen at any time throughout the year, though supervisor grant availability varies.<br>
     - <em>English Language Requirements</em>: While specific requirements vary by supervisor, typical English benchmarks include:<br>
@@ -63,7 +64,8 @@ Here's a helpful overview for those considering doctoral studies in Australia an
 </details>
 <details>
   <summary>Click to learn about <strong>University Scholarship Opportunities</strong></summary>
-    <em><strong>For International Applicants</strong></em>:
+  <p>
+    <em><strong>For International Applicants</strong></em>:<br>
     - For AI-related students in particular, these scholarships have become increasingly competitive due to limited positions and growing enthusiasm in the field. The competition has intensified as more students pursue AI research.<br>
     - Applications for university scholarships are only accepted during specific periods. For example, RMIT's 2026 scholarship round opens in April 2025. Plan ahead and prepare your application early!<br>
     - Recent successful applicants have typically had:
