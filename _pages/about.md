@@ -24,7 +24,7 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 
 - **12/02/2024**: I joined **RMIT University** as a Lecturer! 
   - I will be recruiting **1 PhD student** in the 2025 cycle to work on **low-resource languages and culturally-aligned large language models (LLMs)**.  
-  - Additionally, I may collaborate with researchers from **RMIT University** and **Monash University** to recruit another PhD student focusing on **multimodal NLP**.  
+  - ~~I may collaborate with researchers from **RMIT University** and **Monash University** to recruit another PhD student focusing on **multimodal NLP**.~~ **(filled)** 
   - **If you are interested in joining, feel free to reach out!**  
 
 - **12/04/2024**: Co-organized the ALTA Shared Task: **Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles**.  
@@ -47,6 +47,42 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 ## Collaboration and Supervision
 
 I am eager to collaborate on innovative NLP and machine learning projects, particularly in semantic parsing, social NLP, data-efficient NLP, and efficient learning methods. I also welcome opportunities to supervise motivated students on cutting-edge research topics.
+
+---
+
+## Australian PhD Application Tips
+Here's a helpful overview for those considering doctoral studies in Australia and aren't familiar with the application process:
+<details>
+  <summary>Click to learn about Supervisor-Supported PhD Positions</summary>
+  <p><strong>Supervisor-Supported PhD Position</strong><br>
+    - If your research interests match a supervisor's work, they may support your enrollment directly. The entry requirements are quite flexible and largely depend on the supervisor's discretion.<br>
+    - Enrollment through this path can happen at any time throughout the year, though supervisor grant availability varies.<br>
+    - <em>English Language Requirements</em>: While specific requirements vary by supervisor, typical English benchmarks include:<br>
+    &emsp;- IELTS overall band score of 6.5 or higher<br>
+    &emsp;- Equivalent scores in PTE or TOEFL
+  </p>
+</details>
+<details>
+  <summary>Click to learn about University Scholarship Opportunities</summary>
+  <p><strong>University Scholarship Opportunities</strong><br>
+    - For AI-related students in particular, these scholarships have become increasingly competitive due to limited positions and growing enthusiasm in the field. The competition has intensified as more students pursue AI research.<br>
+    - Applications for university scholarships are only accepted during specific periods. For example, RMIT's 2026 scholarship round opens in April 2025. Plan ahead and prepare your application early!<br>
+    <em>For International Applicants</em>:
+    Recent successful applicants have typically had:
+    <ul>
+      <li>A Master's degree from a QS top 100 ranked university</li>
+      <li>Outstanding academic performance (High Distinction or equivalent grades across different systems - for example, 70+ in British universities or 90+ in Chinese universities)</li>
+      <li>Research experience, demonstrated through a first-authored publication in respected venues (such as CORE A or A* conferences)</li>
+      <li>English proficiency test scores (such as IELTS overall band 6.5 or equivalent in TOEFL/PTE)</li>
+    </ul>
+    Note: These are examples from recent successful applications with university scholarship, not fixed requirements. If you aren't selected, please remember this isn't a reflection of your capabilities - stay confident and keep pursuing your goals.<br><br>
+    <em>For Australian Residents</em>:
+    <ul>
+      <li>The Australian government offers Research Training Program (RTP) scholarships</li>
+      <li>Requirements vary depending on the program and available funding</li>
+    </ul>
+  </p>
+</details>
 
 ---
 
