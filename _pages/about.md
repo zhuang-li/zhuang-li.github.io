@@ -63,10 +63,10 @@ Here's a helpful overview for those considering doctoral studies in Australia an
 </details>
 <details>
   <summary>Click to learn about <strong>University Scholarship Opportunities</strong></summary>
+    <em><strong>For International Applicants</strong></em>:
     - For AI-related students in particular, these scholarships have become increasingly competitive due to limited positions and growing enthusiasm in the field. The competition has intensified as more students pursue AI research.<br>
     - Applications for university scholarships are only accepted during specific periods. For example, RMIT's 2026 scholarship round opens in April 2025. Plan ahead and prepare your application early!<br>
-    <em>For International Applicants</em>:
-    Recent successful applicants have typically had:
+    - Recent successful applicants have typically had:
     <ul>
       <li>A Master's degree from a QS top 100 ranked university</li>
       <li>Outstanding academic performance (High Distinction or equivalent grades across different systems - for example, 70+ in British universities or 85+ in Chinese universities)</li>
@@ -74,7 +74,7 @@ Here's a helpful overview for those considering doctoral studies in Australia an
       <li>English proficiency test scores (such as IELTS overall band 6.5 or equivalent in TOEFL/PTE)</li>
     </ul>
     Note: These are examples from recent successful applications with university scholarship, not fixed requirements. If you aren't selected, please remember this isn't a reflection of your capabilities - stay confident and keep pursuing your goals.<br><br>
-    <em>For Australian Residents</em>:
+    <em><strong>For Australian Residents</strong></em>:
     <ul>
       <li>The Australian government offers Research Training Program (RTP) scholarships</li>
       <li>Requirements vary depending on the program and available funding</li>
