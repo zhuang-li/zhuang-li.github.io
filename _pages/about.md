@@ -71,7 +71,7 @@ Here's a helpful overview for those considering doctoral studies in Australia an
     Recent successful applicants have typically had:
     <ul>
       <li>A Master's degree from a QS top 100 ranked university</li>
-      <li>Outstanding academic performance (High Distinction or equivalent grades across different systems - for example, 70+ in British universities or 90+ in Chinese universities)</li>
+      <li>Outstanding academic performance (High Distinction or equivalent grades across different systems - for example, 70+ in British universities or 85+ in Chinese universities)</li>
       <li>Research experience, demonstrated through a first-authored publication in respected venues (such as CORE A or A* conferences)</li>
       <li>English proficiency test scores (such as IELTS overall band 6.5 or equivalent in TOEFL/PTE)</li>
     </ul>
