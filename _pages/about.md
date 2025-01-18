@@ -52,7 +52,7 @@ I welcome:
 - Remote interns with strong research backgrounds for interesting collaborative projects
 - Industry partners from tech companies interested in practical NLP challenges
 
-For PhD supervision at RMIT, I collaborate with senior faculty members (usually professors) at RMIT as part of the supervision team. I welcome applications for:
+For PhD supervision at RMIT, I collaborate with senior faculty members at RMIT as part of the supervision team. I welcome applications for:
 - Grant-based students (subject to grant availability)
 - University scholarship applicants (highly competitive)
 
