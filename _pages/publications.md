@@ -10,6 +10,23 @@ author_profile: true
 
 **Peer-Reviewed Publications:**
 
+2025:
+1. V Pham, L Qu, **Z Li**, S Sharma, G Haffari, SurveyPilot: Finite-State Orchestrated Agentic Framework for Automated Human Opinion Collection from Social Media, Association for Computational Linguistics Annual Conference (ACL), 2025. (***CORE A****)
+
+2. AQ Tang, X Zhang, MN Dinh, **Z Li**, QQSUM: A Novel Task and Model of Quantitative Query-Focused Summarization for Review-based Product Question Answering, Association for Computational Linguistics Annual Conference (ACL), 2025. (***CORE A****)
+
+3. **Z Li**, Y Hua, T Vu, H Zhan, L Qu, G Haffari, SCAR: Data Selection via Style Consistency-Aware Response Ranking for Efficient Instruction-Tuning of Large Language Models, Association for Computational Linguistics Annual Conference (ACL), 2025. (***CORE A****)
+
+4. X Wu, X Mao, F Li, X Zhang, D Ji, C Teng, **Z Li**, TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis, Association for Computational Linguistics Annual Conference (ACL), 2025. (***CORE A****)
+
+5. S Purkayastha, **Z Li**, A Lauscher, L Qu, I Gurevych, LazyReview: A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews, Association for Computational Linguistics Annual Conference (ACL), 2025. (***CORE A****)
+
+6. T Feng, L Qu, N Tandon, **Z Li**, X Kang, G Haffari, On the Reliability of Large Language Models for Causal Discovery, Association for Computational Linguistics Annual Conference (ACL), 2025. (***CORE A****)
+
+7. VT Pham, **Z Li**, L Qu, G Haffari, CULTUREINSTRUCT: Curating Multi-Cultural Instructions at Scale, North American Chapter of the Association for Computational Linguistics Conference (NAACL), 2025. (***CORE A***)
+
+8. A Joshi, R Dabre, D Kanojia, **Z Li**, H Zhan, G Haffari, D Dippold, Natural Language Processing for Dialects of a Language: A Survey, ACM Computing Surveys (CSUR), 2025.
+
 2024:
 1. T Feng, L Qu, **Z Li**, H Zhan, Y Hua, G Haffari, IMO: Greedy Layer-Wise Sparse Representation Learning for Out-of-Distribution Text Classification with Pre-trained Models, Association for Computational Linguistics Annual Conference (ACL), 2024. (***CORE A****)
 
@@ -68,19 +85,22 @@ author_profile: true
 
 **Preprints/Under Review:**
 
+2025:
+
+1. Y Hua, L Qu, **Z Li**, H Xue, FD Salim, G Haffari, RIDE: Enhancing Large Language Model Alignment through Restyled In-Context Learning Demonstration Exemplars, arXiv preprint arXiv:2502.11681, 2025.
+
 2024:
-1. **Z Li**, Y Hua, TT Vu, H Zhan, L Qu, G Haffari, SCAR: Efficient Instruction-Tuning for Large Language Models via Style Consistency-Aware Response Ranking, arXiv preprint.
 
-2. T Feng, L Qu, N Tandon, **Z Li**, X Kang, G Haffari, From pre-training corpora to large language models: What factors influence llm performance in causal discovery tasks?, arXiv preprint.
+1. S Huang, W MacLean, X Kang, A Wu, L Qu, Q Xu, **Z Li**, X Yuan, G Haffari, NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human, arXiv preprint.
 
-3. S Huang, W MacLean, X Kang, A Wu, L Qu, Q Xu, **Z Li**, X Yuan, G Haffari, NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human, arXiv preprint.
+2. X Kang, L Qu, LK Soon, **Z Li**, A Trakic, Bridging Law and Data: Augmenting Reasoning via a Semi-Structured Dataset with IRAC methodology, arXiv preprint.
 
-4. X Kang, L Qu, LK Soon, **Z Li**, A Trakic, Bridging Law and Data: Augmenting Reasoning via a Semi-Structured Dataset with IRAC methodology, arXiv preprint.
-
-5. Y Hua, **Z Li**, L Luo, KA Satriadi, T Feng, H Zhan, L Qu, S Sharma, Sadas: A dialogue assistant system towards remediating norm violations in bilingual socio-cultural conversations, arXiv preprint.
+3. Y Hua, **Z Li**, L Luo, KA Satriadi, T Feng, H Zhan, L Qu, S Sharma, Sadas: A dialogue assistant system towards remediating norm violations in bilingual socio-cultural conversations, arXiv preprint.
 
 **Patents:**
 1. **Z Li**, G Haffari, R Tumuluri, PR Cohen, System and method for active learning based multilingual semantic parser, US Patent App. 18/318,225, 2024.
+
+2. **Z Li**, R Tumuluri, G Haffari, System and Method of Programmer-Interpreter Approach for Large Language Model Post-Editing, US Patent App. 18/756,077, 2025.
 
 **Thesis:**
 1. **Z Li**, [Semantic Parsing in Limited Resource Conditions](https://bridges.monash.edu/articles/thesis/Semantic_Parsing_in_Limited_Resource_Conditions/24083265), PhD's Thesis at Monash University, 2023.
