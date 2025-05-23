@@ -22,7 +22,12 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 
 ## News
 
-- **02/05/2025**: Serve as an Area Chair for ACL Rolling Review in February 2025!
+- **10/10/2024**:  
+  **Six papers accepted to ACL 2025 main track!**  
+  Topics include LLM safety, opinion summarization, instruction tuning, causal reasoning, and rule-following in peer review.  
+  These works are in collaboration with colleagues from **RMIT**, **Monash**, **TU Darmstadt (UKP Lab)**, **Microsoft Research India**, **Wuhan University**, and **Ant Group**.
+
+- **20/05/2025**: Serve as an Area Chair for ACL Rolling Review in May 2025!
   
 - **12/02/2024**: I joined **RMIT University** as a Lecturer! 
   - I will be recruiting **1 PhD student** in the 2025 cycle to work on **low-resource languages and culturally-aligned large language models (LLMs)**.  
