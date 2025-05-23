@@ -23,3 +23,9 @@ I am on these students' formal supervision panels as an external supervisor.
 - **Sai Ma** (Part-time PhD Student, Australian National University, 2024–present)  
   - **Research**: Large language models for Geoscience  
   - **Co-Supervisor**: Prof. John Taylor  
+
+#### Supervision
+
+- **An Quang Tang** (PhD Student, RMIT University, 2025–present)  
+  - **Research**: Diverse Opinion Summarization
+  - **Co-Supervisors**: Prof. Jenny Zhang, Prof. Minh Dinh
