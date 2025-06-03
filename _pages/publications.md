@@ -17,7 +17,7 @@ author_profile: true
 
 3. **Z Li**, Y Hua, T Vu, H Zhan, L Qu, G Haffari, SCAR: Data Selection via Style Consistency-Aware Response Ranking for Efficient Instruction-Tuning of Large Language Models, Association for Computational Linguistics Annual Conference (ACL), 2025. (***CORE A****)
 
-4. X Wu, X Mao, F Li, X Zhang, D Ji, C Teng, **Z Li**, TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis, Association for Computational Linguistics Annual Conference (ACL), 2025. (***CORE A****)
+4. X Wu, X Mao, F Li, X Zhang, X Li, C Teng, D Ji, **Z Li**, TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis, Association for Computational Linguistics Annual Conference (ACL), 2025. (***CORE A****)
 
 5. S Purkayastha, **Z Li**, A Lauscher, L Qu, I Gurevych, LazyReview: A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews, Association for Computational Linguistics Annual Conference (ACL), 2025. (***CORE A****)
 
