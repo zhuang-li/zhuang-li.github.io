@@ -22,25 +22,17 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 
 ## News
 
-<!-- Always-on scrolling panel (no toggle) -->
+<!-- Force scrolling; also undo any previous "hide after 3 items" CSS and hide old toggle link -->
 <style>
-.news-block {
-  margin: .75rem 0;
-  max-height: 320px;           /* adjust to show ~3–5 items */
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch; /* smooth on iOS */
-  padding-right: .5rem;        /* room for scrollbar */
-  border: 1px solid #e5e7eb;
-  border-radius: 8px;
-}
-.news-block ul { margin: 0; padding-left: 1.25rem; }
-.news-block li { margin-bottom: .75rem; }
-@media (max-width: 640px) {
-  .news-block { max-height: 240px; }
-}
+.news-controls{ display:none !important; }                 /* remove any leftover 'Show all news' link */
+.news-block ul{ margin:0; padding-left:1.25rem; }
+.news-block li{ margin-bottom:.75rem; display:list-item !important; }  /* ensure nothing is hidden */
+@media (max-width:640px){ .news-block{ max-height:240px !important; } }
 </style>
 
-<div class="news-block" role="region" aria-label="News" markdown="1">
+<div class="news-block" role="region" aria-label="News" markdown="1"
+     style="max-height:320px; overflow-y:auto; -webkit-overflow-scrolling:touch;
+            padding-right:.5rem; border:1px solid #e5e7eb; border-radius:8px;">
 
 - **20/05/2025**:  
   **Six papers accepted to ACL 2025 main track!**  
