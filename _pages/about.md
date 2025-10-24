@@ -22,7 +22,7 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 
 ## News
 
-<!-- Always-on scrolling panel -->
+<!-- Always-on scrolling panel (no toggle) -->
 <style>
 .news-block {
   margin: .75rem 0;
