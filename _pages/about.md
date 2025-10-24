@@ -34,6 +34,15 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
      style="max-height:320px; overflow-y:auto; -webkit-overflow-scrolling:touch;
             padding-right:.5rem; border:1px solid #e5e7eb; border-radius:8px;">
 
+- **24/10/2025**:  
+  **NeurIPS update:** one paper on **LLM safety** accepted, and our workshop proposal **PersonalLLM** was accepted.  
+  *Welcome to Mexico!* Submission link: [openreview.net -> PersonaNLP workshop](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop_Mexico_City/PersonaNLP)
+
+- **18/09/2025**:  
+  **Two EMNLP papers accepted — one Main (oral) and one Findings.**  
+  • **Main (oral):** *Text Scene Graph Parsing* - building structured scene graphs directly from text.  
+  • **Findings:** *Privacy-preserving NLP* - methods for safeguarding user data while maintaining model utility.
+
 - **20/05/2025**:  
   **Six papers accepted to ACL 2025 main track!**  
   Topics include LLM safety, opinion summarization, instruction tuning, causal reasoning, and rule-following in peer review.  
