@@ -29,3 +29,8 @@ I am on these students' formal supervision panels as an external supervisor.
 - **An Quang Tang** (PhD Student, RMIT University, 2025–present)  
   - **Research**: Diverse Opinion Summarization
   - **Co-Supervisors**: Prof. Jenny Zhang, Prof. Minh Dinh
+
+- **Vuong Nguyen** (PhD student, RMIT University, 2025–present)
+  - **Research:** Medical decision-making with large language models.
+  - **Co-supervisors:** Dr. Fatemeh Shiri and Prof. Karin Verspoor.
+
