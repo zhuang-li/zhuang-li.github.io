@@ -22,44 +22,23 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 
 ## News
 
-<!-- Styles specific to the News section -->
+<!-- Always-on scrolling panel -->
 <style>
-/* Container for the news list */
-.news-block { margin: .75rem 0; }
-
-/* When expanded, the list becomes a scrollable panel */
-.news-block.expanded {
-  max-height: 320px;           /* height of the scroll area */
+.news-block {
+  margin: .75rem 0;
+  max-height: 320px;           /* adjust to show ~3–5 items */
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch; /* smooth on iOS */
   padding-right: .5rem;        /* room for scrollbar */
   border: 1px solid #e5e7eb;
   border-radius: 8px;
 }
-
-/* Show only first 3 top-level items when collapsed
-   (change n+4 -> n+6 to show 5 items, etc.) */
-.news-block:not(.expanded) > ul > li:nth-of-type(n+4) {
-  display: none;
+.news-block ul { margin: 0; padding-left: 1.25rem; }
+.news-block li { margin-bottom: .75rem; }
+@media (max-width: 640px) {
+  .news-block { max-height: 240px; }
 }
-
-/* Spacing between items */
-.news-block > ul > li { margin-bottom: .75rem; }
-
-/* Controls link spacing */
-.news-controls { margin-top: .25rem; }
-
-/* Link styling (inherits theme styles) */
-#newsToggle { font-size: .95rem; }
 </style>
-
-<!-- If JS is disabled, show all items and hide the toggle -->
-<noscript>
-  <style>
-    .news-block:not(.expanded) > ul > li { display: list-item !important; }
-    .news-controls { display: none !important; }
-    .news-block { border: none !important; max-height: none !important; overflow: visible !important; }
-  </style>
-</noscript>
 
 <div class="news-block" role="region" aria-label="News" markdown="1">
 
@@ -80,10 +59,6 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 - **12/04/2024**: Co-organized the ALTA Shared Task: **Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles**.  
 
 </div>
-
-<p class="news-controls">
-  <a href="#" id="newsToggle" aria-expanded="false">Show all news</a>
-</p>
 
 ---
 
@@ -176,27 +151,6 @@ Outside of academia, I enjoy engaging in hobbies that inspire creativity and rel
 - [Zhihu](https://www.zhihu.com/people/li-zhuang-72-32)
 
 ---
-
-<!-- News toggle script (tiny, runs after the DOM nodes exist) -->
-<script>
-(function() {
-  var toggle = document.getElementById('newsToggle');
-  var block  = document.querySelector('.news-block');
-  if (!toggle || !block) return;
-
-  function set(expanded){
-    block.classList.toggle('expanded', expanded);
-    toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
-    toggle.textContent = expanded ? 'Show fewer' : 'Show all news';
-  }
-
-  set(false); // start collapsed
-  toggle.addEventListener('click', function(e){
-    e.preventDefault();
-    set(!block.classList.contains('expanded'));
-  });
-})();
-</script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KX1RKMBLDR"></script>
