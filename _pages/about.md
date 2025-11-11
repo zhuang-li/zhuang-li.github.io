@@ -34,6 +34,12 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
      style="max-height:320px; overflow-y:auto; -webkit-overflow-scrolling:touch;
             padding-right:.5rem; border:1px solid #e5e7eb; border-radius:8px;">
 
+- **07/11/2025**:
+  **EMNLP 2025:** *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement* selected for the **Outstanding Paper Award** (7 of 3,200 accepted).
+  Built on our previous FACTUAL work and integrated into **FactualSceneGraph**, which now has 77,000+ PyPI downloads and 500,000+ model downloads on Hugging Face.
+  *Links:* [Official repo](https://github.com/shaoqlin/discosg) · [FactualSceneGraph toolkit](https://github.com/zhuang-li/FactualSceneGraph)
+
+
 - **24/10/2025**:  
   **NeurIPS update:** one paper on **LLM safety** accepted, and our workshop proposal **PersonalLLM** was accepted.  
   *Welcome to Mexico!* Submission link: [openreview.net -> PersonaNLP workshop](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop_Mexico_City/PersonaNLP)
