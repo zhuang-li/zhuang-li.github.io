@@ -43,7 +43,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
             padding-right:.5rem; border:1px solid #e5e7eb; border-radius:8px;">
 
 - **03/2026**:
-  I joined the **Wellcome Trust AI4You(th)** project on **safe clinical LLMs for youth mental health**, a grant with a total value of **~$6M AUD**. 
+  I am part of the **Wellcome Trust AI4You(th)** project on **safe clinical LLMs for youth mental health**, a **~$6M AUD** grant jointly secured by **Orygen**, the **University of Melbourne**, and **RMIT University**, in partnership with **Google Health**. **PhD and postdoc positions will be available** through the project.
 
 - **03/2026**:
   Serving as **Senior Area Chair for EMNLP 2026**.
@@ -85,9 +85,9 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 
 ## Research Interests
 
-- **Large language model safety and evaluation**
-- **Structured NLP and semantic parsing**
-- **Efficient adaptation and data synthesis**
+- Large language model safety and evaluation
+- Structured NLP and semantic parsing
+- Efficient adaptation and data synthesis
 
 ---
 
