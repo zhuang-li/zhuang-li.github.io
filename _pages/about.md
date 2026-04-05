@@ -10,13 +10,21 @@ redirect_from:
 
 ## Welcome!
 
-Hello! My name is **Zhuang Li**, and I am a **Lecturer at RMIT University** and formerly a **Research Fellow at Monash University**. My expertise lies in **Natural Language Processing (NLP)**, with a focus on **semantic parsing**, **social NLP**, **culturally-inclusive AI**, and **data-efficient NLP**. I am passionate about developing neural-symbolic methods to align large language models with diverse social norms, striving for an inclusive world where AI systems respect and adapt to different cultural backgrounds. My research also focuses on applying semantic parsing to dialogue systems in low-resource settings.
+Hello! My name is **Zhuang Li**, and I am a **Lecturer at RMIT University** and formerly a **Research Fellow at Monash University**. My research focuses on **large language model safety**, **evaluation**, and **structured NLP**, with an emphasis on building **trustworthy and inspectable AI systems**. I am particularly interested in making LLMs safer, more reliable, and easier to evaluate in real-world settings.
 
 ---
 
 ## About Me
 
-I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen Qu**, **Prof. Gholamreza Haffari**, and **ACL Fellow Phil Cohen**. Throughout my career, I have mentored junior researchers, helping them publish in prestigious venues such as **AAAI**, **EMNLP**, and **EACL**. I am dedicated to fostering innovation and collaboration in the NLP community.
+I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen Qu**, **Prof. Gholamreza Haffari**, and **ACL Fellow Phil Cohen**. I am currently a **Lecturer at RMIT University**.
+
+My recent work has appeared in leading venues such as **ACL, EMNLP, NAACL, NeurIPS, and ICLR**. I was a recipient of the **EMNLP 2025 Outstanding Paper Award**, and I am serving as **Senior Area Chair for EMNLP 2026**.
+
+I have also collaborated with industry partners on **LLM safety evaluation** and **red teaming**, including **Ant International (Singapore)**, which led to publications at **ACL** and **NeurIPS**.
+
+I also contribute to the research community through service roles including **Senior Area Chair for EMNLP 2026**, **Area Chair for ARR, NeurIPS, and NLPCC**, and **Publication Chair for ALTA 2026**.
+
+I am dedicated to developing trustworthy NLP systems and welcome collaboration in **LLM safety**, **evaluation**, and **structured approaches to language understanding**.
 
 ---
 
@@ -24,9 +32,9 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 
 <!-- Force scrolling; also undo any previous "hide after 3 items" CSS and hide old toggle link -->
 <style>
-.news-controls{ display:none !important; }                 /* remove any leftover 'Show all news' link */
+.news-controls{ display:none !important; }
 .news-block ul{ margin:0; padding-left:1.25rem; }
-.news-block li{ margin-bottom:.75rem; display:list-item !important; }  /* ensure nothing is hidden */
+.news-block li{ margin-bottom:.75rem; display:list-item !important; }
 @media (max-width:640px){ .news-block{ max-height:240px !important; } }
 </style>
 
@@ -34,9 +42,15 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
      style="max-height:320px; overflow-y:auto; -webkit-overflow-scrolling:touch;
             padding-right:.5rem; border:1px solid #e5e7eb; border-radius:8px;">
 
+- **03/2026**:
+  I joined the **Wellcome Trust AI4You(th)** project on **safe clinical LLMs for youth mental health**, a grant with a total value of **~$6M AUD**. 
+
+- **03/2026**:
+  Serving as **Senior Area Chair for EMNLP 2026**.
+
 - **07/11/2025**:
   **EMNLP 2025:** *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement* selected for the **Outstanding Paper Award** (7 of 3,200 accepted).
-  Built on our previous FACTUAL work and integrated into **FactualSceneGraph**, which now has 77,000+ PyPI downloads and 500,000+ model downloads on Hugging Face.
+  Built on our previous FACTUAL work and integrated into **FactualSceneGraph**, which now has 171,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
   *Links:* [Official repo](https://github.com/shaoqlin/discosg) · [FactualSceneGraph toolkit](https://github.com/zhuang-li/FactualSceneGraph)
 
 
@@ -51,7 +65,7 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 
 - **20/05/2025**:  
   **Six papers accepted to ACL 2025 main track!**  
-  Topics include LLM safety, opinion summarization, instruction tuning, causal reasoning, and rule-following in peer review.  
+  Topics include LLM safety, opinion summarisation, instruction tuning, causal reasoning, and rule-following in peer review.  
   These works are in collaboration with colleagues from **RMIT**, **Monash**, **TU Darmstadt (UKP Lab)**, **Microsoft Research India**, **Wuhan University**, and **Ant Group**.
 
 - **20/05/2025**: Serve as an Area Chair for ACL Rolling Review in May 2025!
@@ -63,7 +77,7 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
   - ~~I may collaborate with researchers from **RMIT University** and **Monash University** to recruit another PhD student focusing on **multimodal NLP**.~~ **(filled)** 
   - **If you are interested in joining, feel free to reach out!**  
 
-- **12/04/2024**: Co-organized the ALTA Shared Task: **Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles**.  
+- **12/04/2024**: Co-organised the ALTA Shared Task: **Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles**.  
 
 </div>
 
@@ -71,24 +85,30 @@ I earned my PhD from **Monash University**, where I was mentored by **Dr. Lizhen
 
 ## Research Interests
 
-### Natural Language Processing
-- **Semantic Parsing**: Transforming natural language utterances into machine-readable meaning representations for applications such as dialogue systems.  
-- **Social NLP and Culturally-Inclusive AI**: Aligning NLP systems, including large language models, with diverse social norms to ensure inclusivity and cultural sensitivity.  
-- **Data-Efficient NLP**: Enhancing NLP model performance while minimizing the need for large amounts of labeled data.  
+### Large Language Model Safety
+- **Safety evaluation and red teaming**
+- **Over-refusal and utility-safety trade-offs**
+- **Trustworthy and controllable LLM behaviour**
 
-### Machine Learning
-- **Continual and Active Learning**: Developing models that adapt and improve over time through ongoing learning and active sampling.  
-- **Semi-Supervised Learning**: Leveraging limited labeled data alongside abundant unlabeled data to build robust and efficient models.  
+### Structured and Trustworthy NLP
+- **Semantic parsing**: transforming natural language into structured meaning representations
+- **Scene graph parsing** and other structured representations for inspectable language systems
+- **Evaluation methods** for reliable real-world AI systems
+
+### Efficient Adaptation
+- **Data-efficient instruction tuning**
+- **Sample-efficient adaptation under changing requirements**
+- **Targeted data synthesis for safety and evaluation**
 
 ---
 
 ## Collaboration and Supervision
 
-I am eager to collaborate on innovative NLP and machine learning projects, particularly in semantic parsing, social NLP and data-efficient NLP.
+I am eager to collaborate on innovative NLP and machine learning projects, particularly in **LLM safety**, **evaluation**, **red teaming**, **structured NLP**, and **trustworthy AI systems**.
 
 I welcome:
-- Remote interns with strong research backgrounds for interesting collaborative projects
-- Industry partners from tech companies interested in practical NLP challenges
+- Remote interns with strong research backgrounds for collaborative projects
+- Industry partners interested in practical challenges in **LLM safety** and **trustworthy language technologies**
 
 For PhD supervision at RMIT, I collaborate with senior faculty members at RMIT as part of the supervision team. I welcome applications for:
 - Grant-based students (subject to grant availability)
