@@ -85,20 +85,9 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 
 ## Research Interests
 
-### Large Language Model Safety
-- **Safety evaluation and red teaming**
-- **Over-refusal and utility-safety trade-offs**
-- **Trustworthy and controllable LLM behaviour**
-
-### Structured and Trustworthy NLP
-- **Semantic parsing**: transforming natural language into structured meaning representations
-- **Scene graph parsing** and other structured representations for inspectable language systems
-- **Evaluation methods** for reliable real-world AI systems
-
-### Efficient Adaptation
-- **Data-efficient instruction tuning**
-- **Sample-efficient adaptation under changing requirements**
-- **Targeted data synthesis for safety and evaluation**
+- **Large language model safety and evaluation**
+- **Structured NLP and semantic parsing**
+- **Efficient adaptation and data synthesis**
 
 ---
 
