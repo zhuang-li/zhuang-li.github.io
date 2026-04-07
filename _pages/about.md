@@ -18,11 +18,11 @@ Hello! My name is Zhuang Li, and I am a Lecturer at RMIT University and formerly
 
 I earned my PhD from Monash University, where I was mentored by Dr. Lizhen Qu, Prof. Gholamreza Haffari, and ACL Fellow Phil Cohen. I am currently a Lecturer at RMIT University.
 
-My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS, and ICLR. I was a recipient of the EMNLP 2025 Outstanding Paper Award, and I am serving as Senior Area Chair for EMNLP 2026.
+My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS, and ICLR. I was a recipient of the **EMNLP 2025 Outstanding Paper Award**.
 
-I have also collaborated with industry partners on LLM safety evaluation and red teaming, including Ant International (Singapore), which led to publications at ACL and NeurIPS.
+I have also collaborated with industry partners on LLM safety evaluation and red teaming, including Ant International (Singapore), resulting in publications at ACL and NeurIPS.
 
-I also contribute to the research community through service roles including Senior Area Chair for EMNLP 2026, Area Chair for ARR, NeurIPS, and NLPCC, and Publication Chair for ALTA 2026.
+I also contribute to the research community through service roles, including **Senior Area Chair for EMNLP 2026**, Area Chair for ARR, NeurIPS, and NLPCC, and Publication Chair for ALTA 2026.
 
 I am dedicated to developing trustworthy NLP systems and welcome collaboration in LLM safety, evaluation, and structured approaches to language understanding.
 
