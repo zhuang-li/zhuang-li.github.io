@@ -42,6 +42,9 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
      style="max-height:320px; overflow-y:auto; -webkit-overflow-scrolling:touch;
             padding-right:.5rem; border:1px solid #e5e7eb; border-radius:8px;">
 
+- **04/2026**:
+  3 ACL 2026 papers (1 main, 2 findings) on LLM steering, alignment, and robustness accepted
+
 - **03/2026**:
   I am part of the Wellcome Trust AI4You(th) project on safe clinical LLMs for youth mental health, a ~$6M AUD grant jointly secured by Orygen, the University of Melbourne, and RMIT University, in partnership with Google Health. PhD and postdoc positions will be available through the project.
 
