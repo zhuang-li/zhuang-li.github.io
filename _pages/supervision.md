@@ -11,26 +11,32 @@ redirect_from:
 
 ## Ongoing PhD Student Supervision
 
-### Formal Supervision
+I co-supervise PhD students working on large language models, trustworthy AI, scientific fact checking, clinical decision support, geoscience AI, and opinion summarization.
 
-#### External Supervision
-I am on these students' formal supervision panels as an external supervisor.
+### External Co-supervision
 
 - **Thanh Pham** (PhD Student, Monash University, 2024–present)  
   - **Research**: Culturally-aware large language models  
-  - **Co-Supervisors**: Dr. Lizhen Qu, Prof. Reza Haffari
+  - **Co-supervisors**: Dr. Lizhen Qu, Prof. Reza Haffari
 
 - **Sai Ma** (Part-time PhD Student, Australian National University, 2024–present)  
-  - **Research**: Large language models for Geoscience  
-  - **Co-Supervisor**: Prof. John Taylor  
+  - **Research**: Large language models for geoscience  
+  - **Co-supervisor**: Prof. John Taylor  
 
-#### Supervision
+### RMIT Co-supervision
 
 - **An Quang Tang** (PhD Student, RMIT University, 2025–present)  
-  - **Research**: Diverse Opinion Summarization
-  - **Co-Supervisors**: Prof. Jenny Zhang, Prof. Minh Dinh
+  - **Research**: Diverse opinion summarization
+  - **Co-supervisors**: Prof. Jenny Zhang, Prof. Minh Dinh
 
 - **Vuong Nguyen** (PhD student, RMIT University, 2025–present)
-  - **Research:** Medical decision-making with large language models.
-  - **Co-supervisors:** Dr. Fatemeh Shiri and Prof. Karin Verspoor.
+  - **Research**: Medical decision-making with large language models
+  - **Co-supervisors**: Dr. Fatemeh Shiri, Prof. Karin Verspoor
 
+- **Tangyuan Zhang** (PhD Student, RMIT University)
+  - **Research**: Multicultural LLM safety
+  - **Co-supervisor**: Prof. Jenny Zhang
+
+- **Zhen Qian** (PhD Student, RMIT University)
+  - **Research**: Scientific fact checking
+  - **Co-supervisor**: Prof. Jenny Zhang
