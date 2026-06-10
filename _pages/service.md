@@ -9,53 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-### Open Source Contributions
+## Academic Service
 
-I have contributed to several open-source projects that advance **Natural Language Processing (NLP)** and **Machine Learning (ML):**
+- **Senior Area Chair**, EMNLP 2026
+- **Area Chair**, NeurIPS 2026
+- **Area Chair**, ACL Rolling Review, 2025–2026
+- **Program Chair**, PersonaLLM Workshop at NeurIPS 2025
+- **Publication Chair**, Australasian Language Technology Association Workshop, 2026
+- **Shared Task Organizer**, ALTA 2024: Detecting AI-Generated Sentences in Human–AI Hybrid Articles
+- **Seminar Organizer**, School of Computing Technologies, RMIT University
 
-- **Starcoder2 Project**  
-  - Contributed to developing Starcoder2, an open-source coding LLM, as part of the BigCode project led by Hugging Face.
-  - Impact: Recognized as one of the leading open-source LLMs for coding in 2024, with complete transparency in its training process and data usage.
-  - [GitHub Repository](https://github.com/bigcode-project/starcoder2)  
-
-- **FACTUAL: Text Scene Graph Parsing**  
-  - Built FACTUAL, a text scene graph parser, in collaboration with **Adobe** and **Wuhan University**.  
-  - Impact: Downloaded over **33,000 times** from PyPI and **130,000 times** from Hugging Face Models.  
-  - [GitHub Repository](https://github.com/zhuang-li/FactualSceneGraph)  
-
-- **SCAR: Data Selection Tool for LLM Fine-tuning**  
-  - Developed SCAR, a state-of-the-art tool for data selection that enhances LLM performance while reducing dataset size.  
-  - Impact: Downloaded over **5,000 times** from PyPI.  
-  - [GitHub Repository](https://github.com/zhuang-li/SCAR)  
+I also regularly review for ACL, EMNLP, NAACL, EACL, ICLR, NeurIPS, AAAI, and IJCAI.
 
 ---
 
-### Peer Review Activities
+## Software and Open-source Contributions
 
-I contribute to the academic community by reviewing papers for top-tier conferences and journals:
+- **FactualSceneGraph**
+  Toolkit for faithful and consistent textual scene-graph parsing. The project grew out of the FACTUAL benchmark and has been used in subsequent work on discourse-level scene graph parsing.
+  [GitHub Repository](https://github.com/zhuang-li/FactualSceneGraph)
 
-ACL, EMNLP, ICLR, EACL, NAACL, ACL Rolling Review, AAAI, AJI
+- **StarCoder 2 / The Stack v2**
+  Contributor to the community code-LLM and corpus initiative led by the BigCode project.
+  [Project Repository](https://github.com/bigcode-project/starcoder2)
+
+- **SCAR**
+  Data selection method and toolkit for efficient instruction tuning of large language models.
+  [GitHub Repository](https://github.com/zhuang-li/SCAR)
 
 ---
 
-### Talks and Workshops
+## Talks, Panels, and Workshops
 
-I have delivered talks and organized workshops to share insights on NLP and LLM research with academic and industry audiences:
+- **Cultural Alignment & Low-Resource Languages: Adapting LLMs for Diverse Cultures**
+  Panel, International AI Cooperation and Governance Forum, 2025.
 
-#### 2024
+- **Synthetic or Human Data: Optimizing Data Curation for Alignment of Large Language Models**
+  Invited virtual talk, Ant Group, 2024.
+
+- **Make Sense of Textual Data**
+  Workshop, Research Bazaar Victoria, 2024.
+
 - **Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles**
-  - Event: Shared Task at ALTA 2024, Canberra
-  - [Details](https://www.alta.asn.au/events/sharedtask2024/)
+  Shared Task at ALTA 2024, Canberra.
+  [Details](https://www.alta.asn.au/events/sharedtask2024/)
 
-- **Make Sense of Textual Data**  
-  - Event: ResBaz Workshop, Victoria  
-  - [Details](https://docs.google.com/presentation/d/1AgsvwwkyKHbZEsMJeyAwoHd8RvNjbpjCy5lRG7wwyNg/edit?usp=sharing)  
-
-- **Synthetic or Human Data: Optimizing Data Curation for Alignment of Large Language Models**  
-  - Event: Virtual Talk at Ant Group
-  - [Details](https://docs.google.com/presentation/d/1EU4uhQyuJB2L0toIxNC2mYf-tDR-eK1e/edit?usp=sharing&ouid=113549627019053482077&rtpof=true&sd=true)  
-
-#### 2020
-- **Context-Dependent Semantic Parsing**  
-  - Event: Conference Oral Presentation at COLING 2020
-  - [Details](https://monashuni-my.sharepoint.com/:p:/g/personal/zhuang_li_monash_edu/EXAXDQoSPjVKopt7QVEU0-EBMbnxlI6I6U8mUKpL55y5_Q?rtime=4ymv6EMk3Ug)  
+- **Context-Dependent Semantic Parsing**
+  Conference oral presentation, COLING 2020.

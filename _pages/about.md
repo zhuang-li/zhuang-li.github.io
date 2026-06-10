@@ -62,7 +62,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 - **02/2025**:
   Served as an Area Chair for ACL Rolling Review.
 
-- **02/2024**:
+- **12/2024**:
   I joined RMIT University as a Lecturer.
   - ~~I will be recruiting 1 PhD student in the 2025 cycle to work on low-resource languages and culturally-aligned large language models (LLMs).~~ (filled)
   - ~~I may collaborate with researchers from RMIT University and Monash University to recruit another PhD student focusing on multimodal NLP.~~ (filled)

@@ -15,17 +15,17 @@ I co-supervise PhD students working on large language models, trustworthy AI, sc
 
 ### External Co-supervision
 
-- **Thanh Pham** (PhD Student, Monash University, 2024–present)  
-  - **Research**: Culturally-aware large language models  
+- **Thanh Pham** (PhD Student, Monash University, 2024–present)
+  - **Research**: Culturally-aware large language models
   - **Co-supervisors**: Dr. Lizhen Qu, Prof. Reza Haffari
 
-- **Sai Ma** (Part-time PhD Student, Australian National University, 2024–present)  
-  - **Research**: Large language models for geoscience  
-  - **Co-supervisor**: Prof. John Taylor  
+- **Sai Ma** (Part-time PhD Student, Australian National University, 2024–present)
+  - **Research**: Large language models for geoscience
+  - **Co-supervisor**: Prof. John Taylor
 
 ### RMIT Co-supervision
 
-- **An Quang Tang** (PhD Student, RMIT University, 2025–present)  
+- **An Quang Tang** (PhD Student, RMIT University, 2025–present)
   - **Research**: Diverse opinion summarization
   - **Co-supervisors**: Prof. Jenny Zhang, Prof. Minh Dinh
 

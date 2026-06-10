@@ -7,15 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching
+## RMIT University
 
-- **FIT5125: IT Research Methods**  
-  - Role: Tutor  
-  - Responsibilities: Delivered tutorials and guided students through research methodologies.
+- **ISYS1079 / ISYS3476: Managing Semi-structured and Unstructured Data**
+  Lecturer and course coordinator. The course covers modern methods for working with semi-structured and unstructured data, including information extraction, retrieval, and LLM-centric data processing workflows.
 
-- **FIT5149: Applied Data Analysis**  
-  - Role: Admin Tutor and Guest Lecturer  
-  - Responsibilities:  
-    - Delivered a guest lecture on **Semi-Supervised Learning**.  
-    - Designed assignments and exam materials to enhance students' understanding of machine learning concepts.  
-    - Managed tutorial activities and assisted students with coursework.  
+- **COSC2610: Web Programming Studio**
+  Lecturer. The course develops practical web programming skills through studio-based learning and applied software development tasks.
+
+- **COSC2502: C++ Programming Studio**
+  Lecturer. The course introduces programming practice and software development foundations using C++.
+
+---
+
+## Monash University
+
+- **FIT5149: Applied Data Analysis**
+  Administrative tutor and guest lecturer. Delivered a guest lecture on semi-supervised learning and contributed to assignment and examination design.
+
+- **FIT5125: IT Research Methods**
+  Tutor. Delivered tutorials and supported students in developing research methodology skills.

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Zhuang's Resume"
+title: "Short Academic CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,65 +9,86 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
-- **Ph.D. in Natural Language Processing**  
-  *Monash University, Melbourne, Australia* (2019–2023)  
-  - Thesis: Semantic Parsing in Limited Resource Conditions  
-  - Supervisors: Dr. Lizhen Qu, Prof. Gholamreza Haffari, Prof. Philip Cohen
+## Research Profile
 
-- **M.Comp. (Advanced) in Artificial Intelligence**  
-  *Australian National University, Canberra, Australia* (2014–2015)  
-  - Thesis: Representation Learning for Weakly Supervised Relation Extraction  
-  - Supervisor: Dr. Lizhen Qu  
-
-- **B.Eng. in Electrical Engineering**  
-  *Wuhan University of Science and Technology, Wuhan, China* (2009–2013)
+My research focuses on trustworthy agentic AI, large language model safety and evaluation, and structured natural language processing under limited or evolving supervision. I develop data-centric methods for building controllable, inspectable, and auditable AI systems, with applications in high-stakes domains such as clinical decision support, financial services, and public-sector AI.
 
 ---
 
-### Professional Experience
-- **Lecturer/Assistant Professor**  
-  *Royal Melbourne Institute of Technology (RMIT), Melbourne, Australia*  
-  *(12/2024 – Present)*  
-  - Teaching and research in natural language processing.
+## Education
 
-- **Research Fellow (Part-time)**  
-  *Monash University, Melbourne, Australia*  
-  *(02/2023 – 11/2024)*  
-  - Conducted research on cross-lingual, cross-cultural social norms in natural language processing.
+- **PhD in Computer Science**, Monash University, Australia, 2023
+  Thesis: *Semantic Parsing in Limited Resource Conditions*
+  Supervisors: Prof. Gholamreza Haffari, Dr. Lizhen Qu, Prof. Philip R. Cohen
 
-- **Software Developer (Part-time)**  
-  *Openstream.ai, Melbourne, Australia*  
-  *(02/2023 – 11/2024)*  
-  - Developed semantic parsing components for planning-based dialogue systems.
+- **Master of Computing (Advanced) in Artificial Intelligence**, Australian National University, Australia, 2015
+  Thesis: *Representation Learning for Weakly Supervised Relation Extraction*
 
-- **Remote Research Intern**  
-  *Adobe Research, San Jose, USA*  
-  *(09/2021 – 11/2021)*  
-  - Worked on multimodal scene graph parsing.
-
-- **Remote Research Intern**  
-  *Openstream.ai, Seattle, USA*  
-  *(06/2021 – 09/2021)*  
-  - Focused on automatic data curation for semantic parsing and multi-task semantic parsing.
-
-- **Software Development Engineer**  
-  *Microsoft STCA, Suzhou, China*  
-  *(06/2017 – 12/2018)*  
-  - Maintained the language understanding components for Cortana and Bing search engine.
-
-- **Engineer (Cloud Computing)**  
-  *Hong Kong Applied Science & Technology Research Institute (ASTRI), Hong Kong*  
-  *(09/2016 – 06/2017)*  
-  - Implemented machine learning algorithms for time series prediction, trading strategies, and portfolio management.
-
-- **Visiting Student**  
-  *National ICT Australia Ltd (NICTA), Canberra, Australia*  
-  *(03/2015 – 06/2016)*  
-  - Worked on unsupervised learning and neural relation extraction models.
+- **Bachelor of Engineering in Electronic Information Engineering**, Wuhan University of Science and Technology, China, 2013
 
 ---
 
-### Languages
-- English: Advanced  
-- Mandarin: Native Speaker
+## Academic and Industry Appointments
+
+- **Lecturer**, School of Computing Technologies, RMIT University, Melbourne, 2024–present
+- **Research Fellow**, Faculty of Information Technology, Monash University, 2023–2024
+- **Research Scientist**, Openstream.ai, 2023–2024
+- **Software Development Engineer**, Microsoft Search Technology Center Asia, 2017–2018
+- **Engineer**, Hong Kong Applied Science and Technology Research Institute, 2016–2017
+- **Visiting Student**, National ICT Australia, 2015–2016
+
+---
+
+## Selected Funding and Awards
+
+- **Wellcome Trust AI4You(th) project**, named investigator, on safe clinical LLMs for youth mental health.
+- **CSIRO Data61 Next Generation AI Graduate Program**, co-principal investigator, on AI for next-generation food and waste systems.
+- **EMNLP 2025 Outstanding Paper Award**, senior author, for *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement*.
+- **Monash Faculty of Information Technology Research Scholarship** and **International Postgraduate Research Scholarship**.
+
+---
+
+## Teaching
+
+- **RMIT University**
+  - ISYS1079 / ISYS3476: Managing Semi-structured and Unstructured Data
+  - COSC2610: Web Programming Studio
+  - COSC2502: C++ Programming Studio
+
+- **Monash University**
+  - FIT5149: Applied Data Analysis
+  - FIT5125: IT Research Methods
+
+---
+
+## Supervision
+
+I co-supervise PhD students in LLM safety, culturally aware language technologies, clinical decision support, geoscience AI, scientific fact checking, and opinion summarization. See the [Supervision](/supervision/) page for current supervision areas and students.
+
+---
+
+## Academic Service
+
+- Senior Area Chair, EMNLP 2026
+- Area Chair, NeurIPS 2026 and ACL Rolling Review
+- Program Chair, PersonaLLM Workshop at NeurIPS 2025
+- Publication Chair, ALTA Workshop 2026
+- Shared Task Organizer, ALTA 2024
+- Reviewer for ACL, EMNLP, NAACL, EACL, ICLR, NeurIPS, AAAI, and IJCAI
+
+---
+
+## Software, Open Source, and Patents
+
+- **FactualSceneGraph**: toolkit for faithful and consistent textual scene-graph parsing.
+- **StarCoder 2 / The Stack v2**: contributor to the community code-LLM and corpus initiative.
+- **SCAR**: data selection method and toolkit for efficient instruction tuning.
+- **US Patent 12,548,554**: active learning based multilingual semantic parser.
+- **US Patent Application 18/756,077**: programmer-interpreter approach for large language model post-editing.
+
+---
+
+## Languages
+
+- English
+- Mandarin Chinese
