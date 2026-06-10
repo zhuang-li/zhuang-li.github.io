@@ -3,15 +3,16 @@
    ========================================================================== */
 
 :root {
-  --site-ink: #1f2933;
-  --site-muted: #5f6b7a;
-  --site-soft: #f8f9fb;
+  --site-ink: #17212b;
+  --site-muted: #566575;
+  --site-soft: #f7f9fa;
   --site-panel: #ffffff;
-  --site-line: #d9e0e8;
-  --site-line-soft: #edf1f5;
-  --site-accent: #b21f2d;
-  --site-link: #1f5f7a;
-  --site-link-hover: #123f55;
+  --site-line: #d8e1e6;
+  --site-line-soft: #edf2f4;
+  --site-accent: #2f6f73;
+  --site-accent-soft: #dbe9ea;
+  --site-link: #1e6072;
+  --site-link-hover: #123f4c;
 }
 
 html {
@@ -40,7 +41,7 @@ a:hover {
   position: sticky;
   top: 0;
   border-bottom: 1px solid var(--site-line);
-  background: rgba(255, 255, 255, 0.96);
+  background: rgba(251, 253, 253, 0.97);
   z-index: 20;
 }
 
@@ -178,7 +179,7 @@ a:hover {
   margin-bottom: 2rem;
   padding: 1.55rem 1.75rem;
   border: 1px solid var(--site-line);
-  border-left: 4px solid var(--site-accent);
+  border-top: 3px solid var(--site-accent);
   border-radius: 6px;
   background: var(--site-panel);
 }
@@ -216,8 +217,8 @@ a:hover {
   position: absolute;
   bottom: -1px;
   left: 0;
-  width: 3.6rem;
-  height: 2px;
+  width: 4.2rem;
+  height: 1px;
   content: "";
   background: var(--site-accent);
 }
@@ -249,20 +250,20 @@ a:hover {
 
 .page__content em,
 .archive em {
-  color: #3e4b59;
+  color: #344652;
 }
 
 .page__content a,
 .archive a {
   color: var(--site-link);
   text-decoration: none;
-  border-bottom: 1px solid rgba(31, 95, 122, 0.28);
+  border-bottom: 1px solid rgba(30, 96, 114, 0.28);
 }
 
 .page__content a:hover,
 .archive a:hover {
   color: var(--site-link-hover);
-  border-bottom-color: rgba(18, 63, 85, 0.55);
+  border-bottom-color: rgba(18, 63, 76, 0.55);
 }
 
 .page__content hr,
@@ -280,7 +281,7 @@ a:hover {
 
 .page__content li::marker,
 .archive li::marker {
-  color: var(--site-accent);
+  color: #567f83;
 }
 
 .news-controls {
@@ -295,7 +296,7 @@ a:hover {
   border: 1px solid var(--site-line) !important;
   border-radius: 6px !important;
   background: var(--site-panel);
-  scrollbar-color: rgba(31, 95, 122, 0.45) transparent;
+  scrollbar-color: rgba(47, 111, 115, 0.45) transparent;
 }
 
 .page__content .news-block ul {
@@ -330,7 +331,7 @@ a:hover {
 
 .page__content summary:hover {
   color: var(--site-link);
-  background: #f3f7fa;
+  background: #f2f7f7;
 }
 
 .page__content details[open] summary {
