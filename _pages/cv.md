@@ -78,7 +78,7 @@ My supervision is centred on **Trustworthy LLMs**, **Domain-grounded AI**, and *
 
 ## Software, Open Source, and Patents
 
-- **[FactualSceneGraph](https://github.com/zhuang-li/FactualSceneGraph)**: toolkit for faithful and consistent textual scene-graph parsing, connecting FACTUAL (Findings of ACL 2023) with DiscoSG (EMNLP 2025 Outstanding Paper Award); 240,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
+- **[FactualSceneGraph](https://github.com/zhuang-li/FactualSceneGraph)**: toolkit for faithful and consistent textual scene-graph parsing, connecting [FACTUAL](https://aclanthology.org/2023.findings-acl.398/) (Findings of ACL 2023) with [DiscoSG](https://aclanthology.org/2025.emnlp-main.398/) (EMNLP 2025 Outstanding Paper Award); 240,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
 - **[StarCoder 2 / The Stack v2](https://github.com/bigcode-project/starcoder2)**: contributor to the BigCode open-science code LLM initiative; The Stack v2 spans 619 programming languages and supports StarCoder2 models trained on 3.3-4.3T tokens. [Paper](https://arxiv.org/abs/2402.19173)
 - **[SCAR](https://github.com/zhuang-li/SCAR)**: ACL 2025 data selection method and toolkit for efficient instruction tuning; selecting as little as 0.7% of the full dataset can match or surpass full-data fine-tuning in reported benchmarks. [Paper](https://arxiv.org/abs/2406.10882)
 - **US Patent 12,548,554**: active learning based multilingual semantic parser.
