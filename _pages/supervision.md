@@ -11,7 +11,7 @@ redirect_from:
 
 ## Ongoing PhD Student Supervision
 
-I co-supervise PhD students working on large language models, trustworthy AI, scientific fact checking, clinical decision support, geoscience AI, and opinion summarization.
+My supervision is centred on three connected themes: **Trustworthy LLMs**, **Domain-grounded AI**, and **Structured NLP**.
 
 ### External Co-supervision
 
