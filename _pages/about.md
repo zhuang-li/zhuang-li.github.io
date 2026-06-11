@@ -18,7 +18,7 @@ Hello! I am Zhuang Li, a Lecturer at RMIT University and formerly a Research Fel
 
 I earned my PhD from Monash University, where I was mentored by Dr. Lizhen Qu, Prof. Gholamreza Haffari, and ACL Fellow Phil Cohen. I am now a Lecturer at RMIT University.
 
-My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS, and ICLR. I was a recipient of the **EMNLP 2025 Outstanding Paper Award**.
+My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS, and ICLR. I was a recipient of the **EMNLP 2025 Outstanding Paper Award**, one of seven such awards among 3,200+ accepted papers.
 
 I have also collaborated with industry partners, including Ant International (Singapore), on LLM safety evaluation and red teaming, resulting in publications at ACL and NeurIPS.
 
@@ -36,13 +36,13 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
   Three ACL 2026 papers (1 main, 2 findings) on LLM steering, alignment, and robustness were accepted.
 
 - **03/2026**:
-  I am a named investigator on the Wellcome Trust AI4You(th) project on safe clinical LLMs for youth mental health, an approximately AUD 6M grant jointly secured by Orygen, the University of Melbourne, and RMIT University, in partnership with Google Health.
+  I am a co-applicant on the Wellcome Trust AI4You(th) project on safe clinical LLMs for youth mental health, an approximately AUD 6M grant jointly secured by Orygen, the University of Melbourne, and RMIT University, in partnership with Google Health.
 
 - **03/2026**:
   Serving as Senior Area Chair for EMNLP 2026.
 
 - **11/2025**:
-  Our paper *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement* received the EMNLP 2025 Outstanding Paper Award.
+  Our paper *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement* received the EMNLP 2025 Outstanding Paper Award, one of seven such awards among 3,200+ accepted papers.
   Built on our previous FACTUAL work and integrated into FactualSceneGraph, which now has 171,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
   *Links:* [Official repo](https://github.com/shaoqlin/discosg) · [FactualSceneGraph toolkit](https://github.com/zhuang-li/FactualSceneGraph)
 

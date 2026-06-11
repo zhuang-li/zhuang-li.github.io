@@ -23,7 +23,7 @@ My name is highlighted as **Z Li**. Symbols: ✦ first or co-first author; ‡ s
 
 ### 2025
 
-1. S Lin, C Teng, F Li, D Ji, L Qu, **Z Li**. "DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement." EMNLP 2025 (Oral). [CORE A*] ‡ — Outstanding Paper Award.
+1. S Lin, C Teng, F Li, D Ji, L Qu, **Z Li**. "DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement." EMNLP 2025 (Oral). [CORE A*] ‡ — Outstanding Paper Award (one of seven such awards among 3,200+ accepted papers).
 
 2. X Wu, F Li, X Mao, X Zhang, L Zheng, Y Peng, C Teng, D Ji, **Z Li**. "EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions." NeurIPS 2025. [CORE A*] ‡
 
