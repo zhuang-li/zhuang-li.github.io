@@ -25,17 +25,17 @@ I also regularly review for ACL, EMNLP, NAACL, EACL, ICLR, NeurIPS, AAAI, and IJ
 
 ## Software and Open-source Contributions
 
-- **FactualSceneGraph**
+- **[FactualSceneGraph](https://github.com/zhuang-li/FactualSceneGraph)**
   Toolkit for faithful and consistent textual scene-graph parsing. The project grew out of the FACTUAL benchmark, supports subsequent work on discourse-level scene graph parsing, and has reached 171,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
-  [GitHub Repository](https://github.com/zhuang-li/FactualSceneGraph)
+  [Repository](https://github.com/zhuang-li/FactualSceneGraph)
 
-- **StarCoder 2 / The Stack v2**
+- **[StarCoder 2 / The Stack v2](https://github.com/bigcode-project/starcoder2)**
   Contributor to the BigCode open-science code-LLM and corpus initiative. The Stack v2 spans 619 programming languages and underpins StarCoder2 models trained on 3.3-4.3T tokens, with model weights released for responsible open research and development.
-  [Project Repository](https://github.com/bigcode-project/starcoder2)
+  [Repository](https://github.com/bigcode-project/starcoder2) · [Paper](https://arxiv.org/abs/2402.19173)
 
-- **SCAR**
+- **[SCAR](https://github.com/zhuang-li/SCAR)**
   ACL 2025 data selection method and toolkit for efficient instruction tuning of large language models. SCAR ranks instruction-response pairs by style consistency; in reported benchmarks, selecting as little as 0.7% of the full dataset can match or surpass full-data fine-tuning.
-  [GitHub Repository](https://github.com/zhuang-li/SCAR)
+  [Repository](https://github.com/zhuang-li/SCAR) · [Paper](https://arxiv.org/abs/2406.10882)
 
 ---
 
