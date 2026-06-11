@@ -13,9 +13,9 @@ My name is highlighted as **Z Li**. Symbols: ✦ first or co-first author; ‡ s
 
 1. L Zheng, X Zhang, S He, F Li, C Teng, J Yang, D Ji, **Z Li**. "Are Emotion and Rhetoric Neurons in LLM? Neuron Recognition and Adaptive Masking for Emotion-Rhetoric Prediction Steering." To appear in ACL 2026 (Oral). [CORE A*] ‡
 
-2. M-V Nguyen, F Shiri, **Z Li**, K Verspoor. "How Robust Are Large Language Models for Clinical Numeracy? An Empirical Study on Numerical Reasoning Abilities in Clinical Contexts." To appear in Findings of ACL 2026.
+2. M-V Nguyen, F Shiri, **Z Li**, K Verspoor. "How Robust Are Large Language Models for Clinical Numeracy? An Empirical Study on Numerical Reasoning Abilities in Clinical Contexts." To appear in Findings of ACL 2026. [CORE A*]
 
-3. V T Pham, L Qu, **Z Li**, G Haffari. "Evidence-based Distributional Alignment for Large Language Models." To appear in Findings of ACL 2026.
+3. V T Pham, L Qu, **Z Li**, G Haffari. "Evidence-based Distributional Alignment for Large Language Models." To appear in Findings of ACL 2026. [CORE A*]
 
 4. S Ma, **Z Li**, J A Taylor. "Landsat30-AU: A Vision-Language Dataset for Australian Landsat Imagery." AAAI 2026. [CORE A*]
 
@@ -41,7 +41,7 @@ My name is highlighted as **Z Li**. Symbols: ✦ first or co-first author; ‡ s
 
 9. V T Pham, **Z Li**, L Qu, G Haffari. "CultureInstruct: Curating Multi-Cultural Instructions at Scale." NAACL 2025. [CORE A*]
 
-10. S Huang, W MacLean, X Kang, Q Xu, **Z Li**, X Yuan, G Haffari, L Qu. "NAP²: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human." Findings of EMNLP 2025.
+10. S Huang, W MacLean, X Kang, Q Xu, **Z Li**, X Yuan, G Haffari, L Qu. "NAP²: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human." Findings of EMNLP 2025. [CORE A*]
 
 ### 2024
 
@@ -53,7 +53,7 @@ My name is highlighted as **Z Li**. Symbols: ✦ first or co-first author; ‡ s
 
 4. M D Vu, H Wang, **Z Li**, J Chen, S Zhao, Z Xing, C Chen. "GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning." UIST 2024. [CORE A*]
 
-5. H Zhan, **Z Li**, X Kang, T Feng, Y Hua, L Qu, Y Ying, M R Chandra. "RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations." Findings of NAACL 2024.
+5. H Zhan, **Z Li**, X Kang, T Feng, Y Hua, L Qu, Y Ying, M R Chandra. "RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations." Findings of NAACL 2024. [CORE A*]
 
 6. **Z Li**, L Haroutunian, R Tumuluri, P Cohen, G Haffari. "Improving Cross-Domain Low-Resource Text Generation through LLM Post-Editing: A Programmer-Interpreter Approach." Findings of EACL 2024. [CORE A] ✦
 
@@ -67,7 +67,7 @@ My name is highlighted as **Z Li**. Symbols: ✦ first or co-first author; ‡ s
 
 1. **Z Li**, L Qu, P R Cohen, R V Tumuluri, G Haffari. "The Best of Both Worlds: Combining Human and Machine Translations for Multilingual Semantic Parsing with Active Learning." ACL 2023. [CORE A*] ✦
 
-2. **Z Li**, Y Chai, T Y Zhuo, L Qu, G Haffari, F Li, D Ji, Q H Tran. "FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing." Findings of ACL 2023. ✦
+2. **Z Li**, Y Chai, T Y Zhuo, L Qu, G Haffari, F Li, D Ji, Q H Tran. "FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing." Findings of ACL 2023. [CORE A*] ✦
 
 3. T Hu, **Z Li**, X Jin, L Qu, X Zhang. "TMID: A Comprehensive Real-world Dataset for Trademark Infringement Detection in E-Commerce." EMNLP 2023, Industry Track. [CORE A*] ✦
 
