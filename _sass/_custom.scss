@@ -5,7 +5,7 @@
 :root {
   --site-ink: #1f1c17;
   --site-muted: #5f5b53;
-  --site-soft: #f1eee6;
+  --site-soft: #f4f1ea;
   --site-panel: #fffdf5;
   --site-line: #b9ae9f;
   --site-line-soft: #e2dbcf;
@@ -14,29 +14,56 @@
   --site-link: #2f5e73;
   --site-link-hover: #173b4a;
   --site-shadow: #d1c7b8;
-  --site-grid: #e7e0d4;
+  --site-grid: #e5ded2;
+  --site-dot: #d8ccbc;
 }
 
 html {
   background-color: var(--site-soft);
-  background-image:
-    linear-gradient(var(--site-grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--site-grid) 1px, transparent 1px);
-  background-size: 18px 18px;
 }
 
 body {
+  position: relative;
   color: var(--site-ink);
-  background:
-    linear-gradient(45deg, rgba(116, 97, 74, 0.035) 25%, transparent 25%, transparent 75%, rgba(116, 97, 74, 0.035) 75%),
-    linear-gradient(45deg, rgba(47, 94, 115, 0.035) 25%, transparent 25%, transparent 75%, rgba(47, 94, 115, 0.035) 75%),
-    var(--site-soft);
-  background-position: 0 0, 9px 9px;
-  background-size: 18px 18px;
+  background: var(--site-soft);
   font-size: 16.5px;
   line-height: 1.68;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+}
+
+body::before,
+body::after {
+  display: none;
+}
+
+@media (min-width: 1181px) {
+  body::before,
+  body::after {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    display: block;
+    width: calc((100vw - 1180px) / 2);
+    content: "";
+    pointer-events: none;
+    background:
+      radial-gradient(var(--site-dot) 0.8px, transparent 0.8px),
+      linear-gradient(var(--site-grid) 1px, transparent 1px),
+      linear-gradient(90deg, var(--site-grid) 1px, transparent 1px);
+    background-position: 9px 9px, 0 0, 0 0;
+    background-size: 18px 18px, 36px 36px, 36px 36px;
+    opacity: 0.62;
+    z-index: 0;
+  }
+
+  body::before {
+    left: 0;
+  }
+
+  body::after {
+    right: 0;
+  }
 }
 
 a {
@@ -188,6 +215,8 @@ a:hover {
 }
 
 #main {
+  position: relative;
+  z-index: 1;
   max-width: 1280px;
   margin-top: 2.2rem;
   padding-right: 1.25rem;
