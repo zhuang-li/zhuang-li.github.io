@@ -10,20 +10,20 @@ author_profile: true
 ## RMIT University
 
 - **ISYS1079 / ISYS3476: Managing Semi-structured and Unstructured Data**
-  Lecturer and course coordinator. The course covers modern methods for working with semi-structured and unstructured data, including information extraction, retrieval, and LLM-centric data processing workflows.
+  **Role:** Lecturer and course coordinator. The course covers modern methods for working with semi-structured and unstructured data, including information extraction, retrieval, and LLM-centric data processing workflows.
 
 - **COSC2610: Web Programming Studio**
-  Lecturer. The course develops practical web programming skills through studio-based learning and applied software development tasks.
+  **Role:** Lecturer. The course develops practical web programming skills through studio-based learning and applied software development tasks.
 
 - **COSC2502: C++ Programming Studio**
-  Lecturer. The course introduces programming practice and software development foundations using C++.
+  **Role:** Lecturer. The course introduces programming practice and software development foundations using C++.
 
 ---
 
 ## Monash University
 
 - **FIT5149: Applied Data Analysis**
-  Administrative tutor and guest lecturer. Delivered a guest lecture on semi-supervised learning and contributed to assignment and examination design.
+  **Role:** Administrative tutor and guest lecturer. Delivered a guest lecture on semi-supervised learning and contributed to assignment and examination design.
 
 - **FIT5125: IT Research Methods**
-  Tutor. Delivered tutorials and supported students in developing research methodology skills.
+  **Role:** Tutor. Delivered tutorials and supported students in developing research methodology skills.

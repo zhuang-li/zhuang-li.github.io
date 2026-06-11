@@ -51,13 +51,13 @@ My research focuses on trustworthy agentic AI, large language model safety and e
 ## Teaching
 
 - **RMIT University**
-  - ISYS1079 / ISYS3476: Managing Semi-structured and Unstructured Data
-  - COSC2610: Web Programming Studio
-  - COSC2502: C++ Programming Studio
+  - Lecturer and course coordinator, ISYS1079 / ISYS3476: Managing Semi-structured and Unstructured Data
+  - Lecturer, COSC2610: Web Programming Studio
+  - Lecturer, COSC2502: C++ Programming Studio
 
 - **Monash University**
-  - FIT5149: Applied Data Analysis
-  - FIT5125: IT Research Methods
+  - Administrative tutor and guest lecturer, FIT5149: Applied Data Analysis
+  - Tutor, FIT5125: IT Research Methods
 
 ---
 
