@@ -94,10 +94,40 @@ a:hover {
 }
 
 .greedy-nav button {
+  top: 50%;
+  right: 0.25rem;
+  display: grid;
+  width: 2.45rem;
+  height: 2.2rem;
+  min-height: 0;
+  padding: 0;
+  place-items: center;
   border: 2px solid var(--site-line);
   border-radius: 0;
   background: var(--site-panel);
   box-shadow: 3px 3px 0 var(--site-shadow);
+  transform: translateY(-50%);
+  z-index: 30;
+}
+
+.greedy-nav button .navicon,
+.greedy-nav button .navicon::before,
+.greedy-nav button .navicon::after {
+  width: 1.35rem;
+  height: 3px;
+  background: var(--site-ink);
+}
+
+.greedy-nav button .navicon::before {
+  top: -7px;
+}
+
+.greedy-nav button .navicon::after {
+  bottom: -7px;
+}
+
+.greedy-nav button.close .navicon {
+  background: transparent;
 }
 
 .greedy-nav .visible-links {
