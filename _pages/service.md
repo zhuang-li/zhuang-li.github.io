@@ -11,10 +11,24 @@ redirect_from:
 
 ## Academic Service
 
-- **Senior Area Chair / Area Chair**: EMNLP 2026 (Senior Area Chair); NeurIPS 2026, ACL Rolling Review 2025–2026, and NLPCC (Area Chair)
-- **Conference and workshop organization**: Program Chair, PersonaLLM Workshop at NeurIPS 2025; Publication Chair, Australasian Language Technology Association Workshop 2026; Shared Task Organizer, ALTA 2024: Detecting AI-Generated Sentences in Human–AI Hybrid Articles
-- **Local service**: Seminar Organizer, School of Computing Technologies, RMIT University
-- **Reviewing**: ACL, EMNLP, NAACL, EACL, ICLR, NeurIPS, AAAI, IJCAI, and related NLP/AI venues
+### Chairing
+
+- **Senior Area Chair**: EMNLP 2026
+- **Area Chair**: NeurIPS 2026, ACL Rolling Review 2025–2026, NLPCC
+
+### Conference and Workshop Organization
+
+- **Program Chair**: PersonaLLM Workshop at NeurIPS 2025
+- **Publication Chair**: Australasian Language Technology Association Workshop 2026
+- **Shared Task Organizer**: ALTA 2024, Detecting AI-Generated Sentences in Human–AI Hybrid Articles
+
+### Local Service
+
+- **Seminar Organizer**: School of Computing Technologies, RMIT University
+
+### Reviewing
+
+- ACL, EMNLP, NAACL, EACL, ICLR, NeurIPS, AAAI, IJCAI, and related NLP/AI venues
 
 ---
 
