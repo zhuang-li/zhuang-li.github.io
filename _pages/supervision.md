@@ -33,10 +33,10 @@ My supervision is centred on three connected themes: **Trustworthy LLMs**, **Dom
   - **Research**: Medical decision-making with large language models
   - **Co-supervisors**: Dr. Fatemeh Shiri, Prof. Karin Verspoor
 
-- **Tangyuan Zhang** (PhD Student, RMIT University)
+- **Tangyuan Zhang** (PhD Student, RMIT University, 2026–present)
   - **Research**: Multicultural LLM safety
   - **Co-supervisor**: Prof. Jenny Zhang
 
-- **Zhen Qian** (PhD Student, RMIT University)
+- **Zhen Qian** (PhD Student, RMIT University, 2026–present)
   - **Research**: Scientific fact checking
   - **Co-supervisor**: Prof. Jenny Zhang
