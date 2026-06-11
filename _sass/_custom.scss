@@ -160,7 +160,55 @@ a:hover {
   }
 
   .greedy-nav .hidden-links {
+    right: 0;
+    width: min(19rem, calc(100vw - 2rem));
     margin-top: 0.45rem;
+    padding: 0.45rem;
+    border: 2px solid var(--site-line);
+    border-radius: 0;
+    background: var(--site-panel);
+    box-shadow: 4px 4px 0 var(--site-shadow);
+  }
+
+  .greedy-nav .hidden-links::before {
+    top: -11px;
+    right: 0.85rem;
+    border-width: 0 9px 9px;
+    border-color: var(--site-line) transparent;
+  }
+
+  .greedy-nav .hidden-links::after {
+    top: -8px;
+    right: 1rem;
+    border-width: 0 7px 7px;
+    border-color: var(--site-panel) transparent;
+  }
+
+  .greedy-nav .hidden-links li {
+    border-bottom: 1px solid var(--site-line-soft);
+  }
+
+  .greedy-nav .hidden-links li:last-child {
+    border-bottom: 0;
+  }
+
+  .greedy-nav .hidden-links .masthead__menu-item a {
+    display: flex;
+    width: 100%;
+    min-height: 2.55rem;
+    margin: 0;
+    padding: 0.42rem 0.55rem;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+    white-space: normal;
+  }
+
+  .greedy-nav .hidden-links .masthead__menu-item a:hover {
+    box-shadow: none;
+    transform: none;
+    background: var(--site-accent-soft);
   }
 }
 
