@@ -32,18 +32,18 @@ redirect_from:
 
 ---
 
-## Software and Open-source Contributions
+## Software and Open Source Contributions
 
 - **[FactualSceneGraph](https://github.com/zhuang-li/FactualSceneGraph)**
   Toolkit for faithful and consistent textual scene-graph parsing. The project grew out of the FACTUAL benchmark, supports subsequent work on discourse-level scene graph parsing, and has reached 171,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
   [Repository](https://github.com/zhuang-li/FactualSceneGraph)
 
 - **[StarCoder 2 / The Stack v2](https://github.com/bigcode-project/starcoder2)**
-  Contributor to the BigCode open-science code-LLM and corpus initiative. The Stack v2 spans 619 programming languages and underpins StarCoder2 models trained on 3.3-4.3T tokens, with model weights released for responsible open research and development.
+  Contributor to the BigCode open-science code LLM and corpus initiative. The Stack v2 spans 619 programming languages and underpins StarCoder2 models trained on 3.3-4.3T tokens, with model weights released for responsible open research and development.
   [Repository](https://github.com/bigcode-project/starcoder2) · [Paper](https://arxiv.org/abs/2402.19173)
 
 - **[SCAR](https://github.com/zhuang-li/SCAR)**
-  ACL 2025 data selection method and toolkit for efficient instruction tuning of large language models. SCAR ranks instruction-response pairs by style consistency; in reported benchmarks, selecting as little as 0.7% of the full dataset can match or surpass full-data fine-tuning.
+  ACL 2025 data selection method and toolkit for efficient instruction tuning of LLMs. SCAR ranks instruction-response pairs by style consistency; in reported benchmarks, selecting as little as 0.7% of the full dataset can match or surpass full-data fine-tuning.
   [Repository](https://github.com/zhuang-li/SCAR) · [Paper](https://arxiv.org/abs/2406.10882)
 
 ---
@@ -53,7 +53,7 @@ redirect_from:
 - **Cultural Alignment & Low-Resource Languages: Adapting LLMs for Diverse Cultures**
   Panel, International AI Cooperation and Governance Forum, 2025.
 
-- **Synthetic or Human Data: Optimizing Data Curation for Alignment of Large Language Models**
+- **Synthetic or Human Data: Optimizing Data Curation for Alignment of LLMs**
   Invited virtual talk, Ant Group, 2024.
 
 - **Make Sense of Textual Data**

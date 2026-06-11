@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome!
 
-Hello! I am Zhuang Li, a Lecturer at RMIT University and formerly a Research Fellow at Monash University. My research focuses on large language model safety, evaluation, and structured NLP, with an emphasis on building trustworthy and inspectable AI systems. I am particularly interested in making LLMs safer, more reliable, and easier to evaluate in real-world settings.
+Hello! I am Zhuang Li, a Lecturer at RMIT University and formerly a Research Fellow at Monash University. My research focuses on large language model (LLM) safety, evaluation, and structured natural language processing (NLP), with an emphasis on building trustworthy and inspectable AI systems. I am particularly interested in making LLMs safer, more reliable, and easier to evaluate in real-world settings.
 
 ---
 
@@ -22,7 +22,7 @@ My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS
 
 I have also collaborated with industry partners, including Ant International (Singapore), on LLM safety evaluation and red teaming, resulting in publications at ACL and NeurIPS.
 
-I also contribute to the research community through service roles, including **Senior Area Chair for EMNLP 2026**, Area Chair for ARR, NeurIPS, and NLPCC, and Publication Chair for ALTA 2026.
+I also contribute to the research community through service roles, including **Senior Area Chair for EMNLP 2026**, Area Chair for ACL Rolling Review, NeurIPS, and NLPCC, and Publication Chair for ALTA 2026.
 
 I am dedicated to developing trustworthy NLP systems and welcome collaboration in LLM safety, evaluation, and structured approaches to language understanding.
 
@@ -33,7 +33,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 <div class="news-block" role="region" aria-label="News" markdown="1">
 
 - **04/2026**:
-  Three ACL 2026 papers (1 main, 2 findings) on LLM steering, alignment, and robustness were accepted.
+  Three ACL 2026 papers, including one main conference paper and two Findings papers, on LLM steering, alignment, and robustness were accepted.
 
 - **03/2026**:
   I am a co-applicant on the Wellcome Trust AI4You(th) project on safe clinical LLMs for youth mental health, an approximately AUD 6M grant jointly secured by Orygen, the University of Melbourne, and RMIT University, in partnership with Google Health.
@@ -51,10 +51,10 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
   *Link:* [PersonaNLP workshop](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop_Mexico_City/PersonaNLP)
 
 - **09/2025**:
-  Two EMNLP 2025 papers were accepted, including one in the main track and one in Findings.
+  Two EMNLP 2025 papers were accepted, including one in the main conference and one in Findings.
 
 - **05/2025**:
-  Six papers were accepted to ACL 2025 main track.
+  Six papers were accepted to the ACL 2025 main conference.
 
 - **05/2025**:
   Served as an Area Chair for ACL Rolling Review.
@@ -64,7 +64,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 
 - **12/2024**:
   I joined RMIT University as a Lecturer.
-  - ~~I will be recruiting 1 PhD student in the 2025 cycle to work on low-resource languages and culturally-aligned large language models (LLMs).~~ (filled)
+  - ~~I will be recruiting one PhD student in the 2025 cycle to work on low-resource languages and culturally aligned LLMs.~~ (filled)
   - ~~I may collaborate with researchers from RMIT University and Monash University to recruit another PhD student focusing on multimodal NLP.~~ (filled)
   - If you are interested in joining, feel free to reach out.
 
@@ -77,7 +77,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 
 ## Research Interests
 
-- Large language model safety and evaluation
+- LLM safety and evaluation
 - Structured NLP and semantic parsing
 - Efficient adaptation and data synthesis
 
@@ -115,7 +115,7 @@ Useful things to prepare:
 - A short statement explaining why your interests fit the supervisor's current research program
 - English language evidence, such as IELTS, TOEFL, or PTE scores, if required by the university
 
-Timing can be more flexible than central scholarship rounds, but funding availability, formal admission requirements, and English language requirements still apply. For RMIT, applicants should also check the official [HDR application](https://www.rmit.edu.au/research/research-degrees/how-to-apply) and [research scholarships](https://www.rmit.edu.au/research/research-degrees/scholarships) pages.
+Timing can be more flexible than central scholarship rounds, but funding availability, formal admission requirements, and English language requirements still apply. For RMIT, applicants should also check the official [Higher Degree by Research (HDR) application](https://www.rmit.edu.au/research/research-degrees/how-to-apply) and [research scholarships](https://www.rmit.edu.au/research/research-degrees/scholarships) pages.
 </details>
 
 <details markdown="1">
