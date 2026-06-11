@@ -63,7 +63,7 @@ My research focuses on trustworthy agentic AI, large language model safety and e
 
 ## Supervision
 
-I co-supervise PhD students in LLM safety, culturally aware language technologies, clinical decision support, geoscience AI, scientific fact checking, and opinion summarization. See the [Supervision](/supervision/) page for current supervision areas and students.
+I supervise and co-supervise PhD and master's students in LLM safety, culturally aware language technologies, clinical decision support, geoscience AI, scientific fact checking, opinion summarization, and social simulation. See the [Supervision](/supervision/) page for current supervision areas and students.
 
 ---
 

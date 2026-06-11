@@ -11,7 +11,7 @@ redirect_from:
 
 ## Ongoing PhD Student Supervision
 
-I co-supervise PhD students working on large language models, trustworthy AI, scientific fact checking, clinical decision support, geoscience AI, and opinion summarization.
+I supervise and co-supervise students working on large language models, trustworthy AI, scientific fact checking, clinical decision support, geoscience AI, opinion summarization, and social simulation.
 
 ### External Co-supervision
 
@@ -40,3 +40,8 @@ I co-supervise PhD students working on large language models, trustworthy AI, sc
 - **Zhen Qian** (PhD Student, RMIT University)
   - **Research**: Scientific fact checking
   - **Co-supervisor**: Prof. Jenny Zhang
+
+## Master Student Supervision
+
+- **Janna Qian Zi Ng** (Master of Information Technology student, RMIT University)
+  - **Research**: Social simulation
