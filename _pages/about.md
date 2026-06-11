@@ -101,41 +101,44 @@ For PhD supervision at RMIT, I collaborate with senior faculty members at RMIT a
 
 ## Australian PhD Application Tips
 
-Here is a brief overview for those considering doctoral studies in Australia who may be unfamiliar with the application process:
+Here is a practical overview for students who are considering doctoral studies in Australia and may be unfamiliar with the application process. These notes are based on my experience and are not official admission or scholarship rules.
 
-<details>
+<details markdown="1">
   <summary><strong>Supervisor-Supported PhD Positions</strong></summary>
-  <p>
-    - If your research interests match a supervisor's work, they may support your enrollment directly. The entry requirements are quite flexible and largely depend on the supervisor's discretion.<br>
-    - Enrollment through this path can happen at any time throughout the year, though supervisor grant availability varies.<br>
-    - <em>English Language Requirements</em>: While specific requirements vary by supervisor, typical English benchmarks include:<br>
-    &emsp;- IELTS overall band score of 6.5 or higher<br>
-    &emsp;- Equivalent scores in PTE or TOEFL
-  </p>
+
+Some PhD positions are linked to a supervisor's funded project. If your background fits the project well, the supervisor may support your application as part of a grant-funded supervision team.
+
+Useful things to prepare:
+
+- A concise CV with education, research experience, publications, projects, and technical skills
+- Transcripts and evidence of research training, such as an honours thesis, master's thesis, research internship, or substantial project
+- A short statement explaining why your interests fit the supervisor's current research program
+- English language evidence, such as IELTS, TOEFL, or PTE scores, if required by the university
+
+Timing can be more flexible than central scholarship rounds, but funding availability, formal admission requirements, and English language requirements still apply. For RMIT, applicants should also check the official [HDR application](https://www.rmit.edu.au/research/research-degrees/how-to-apply) and [research scholarships](https://www.rmit.edu.au/research/research-degrees/scholarships) pages.
 </details>
 
-<details>
+<details markdown="1">
   <summary><strong>University Scholarship Opportunities</strong></summary>
-  <p>
-    <em><strong>For International Applicants</strong></em>:<br>
-    - For AI-related PhD applicants in particular, these scholarships have become increasingly competitive due to limited positions and growing enthusiasm in the field.<br>
-    - Applications for university scholarships are only accepted during specific periods. For example, RMIT's 2026 scholarship round opens in April 2025. Plan ahead and prepare your application early!<br>
-    - Recent successful applicants have typically had:
-    <ul>
-      <li>A Master's degree from a prestigious university</li>
-      <li>Strong transcript grades (High Distinction or equivalent grades across different systems, for example 70+ in British universities or 85+ in Chinese universities)</li>
-      <li>Research experience, demonstrated through a first-authored publication in respected venues such as CORE A or A* conferences</li>
-      <li>English proficiency test scores such as IELTS overall band 6.5 or equivalent in TOEFL/PTE</li>
-    </ul>
-    Note: These are examples from recent successful university scholarship applications, not fixed requirements. If you are not selected, please remember that this is not a reflection of your capabilities. Stay confident and keep pursuing your goals.<br><br>
-    <em><strong>For Australian Residents</strong></em>:
-    <ul>
-      <li>The Australian government provides Research Training Program (RTP) scholarships for domestic students</li>
-      <li>Universities usually offer additional stipends for RTP recipients</li>
-      <li>Typical requirements include a minimum overall grade of 75</li>
-      <li>Still, exact eligibility criteria and funding amounts vary by program and supervisor availability.</li>
-    </ul>
-  </p>
+
+**For international applicants:** University scholarship rounds are usually more competitive and deadline-driven. AI-related PhD applications can be especially competitive because many strong applicants are applying for a limited number of scholarships.
+
+Competitive applicants often have several of the following strengths:
+
+- Strong academic results, often around High Distinction level or equivalent in the applicant's grading system
+- Clear research experience, such as a thesis, research assistantship, internship, preprint, or peer-reviewed publication
+- Evidence of independent writing and technical ability, especially for NLP, machine learning, or data-centric AI topics
+- A focused research fit with the proposed supervision team rather than a generic interest in AI
+- English proficiency evidence that meets the university's current requirements
+
+These are not fixed requirements. Scholarship outcomes depend on the full applicant pool, school ranking process, university rules, and available funding in that round. Always check the official university HDR scholarship pages for current deadlines and eligibility rules.
+
+**For Australian residents:**
+
+- Domestic applicants may be eligible for Research Training Program (RTP) places or scholarships
+- Universities may also offer stipend scholarships or top-ups depending on the scheme
+- Strong grades and evidence of research potential are still important
+- Eligibility criteria, stipend amounts, and application timelines vary by university and year
 </details>
 
 ---
