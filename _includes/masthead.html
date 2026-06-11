@@ -6,14 +6,24 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-item--home">
+            <a href="{{ base_path }}/">
+              <span class="nav-pixel-icon" aria-hidden="true"></span>
+              <span class="nav-pixel-label">{{ site.title }}</span>
+            </a>
+          </li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item masthead__menu-item--{{ link.title | slugify }}">
+              <a href="{{ domain }}{{ link.url }}">
+                <span class="nav-pixel-icon" aria-hidden="true"></span>
+                <span class="nav-pixel-label">{{ link.title }}</span>
+              </a>
+            </li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
