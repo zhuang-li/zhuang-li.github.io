@@ -22,7 +22,7 @@ My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS
 
 I have also collaborated with industry partners, including Ant International (Singapore), on LLM safety evaluation and red teaming, resulting in publications at ACL and NeurIPS.
 
-I also contribute to the research community through service roles, including **Senior Area Chair for EMNLP 2026**, Area Chair for ACL Rolling Review, NeurIPS, and NLPCC, and Publication Chair for ALTA 2026.
+I also contribute to the research community through service roles, including **Senior Area Chair for EMNLP 2026**, Area Chair for NeurIPS 2026, ACL Rolling Review, and NLPCC 2026, and Publication Chair for ALTA 2026.
 
 I am dedicated to developing trustworthy NLP systems and welcome collaboration in LLM safety, evaluation, and structured approaches to language understanding.
 

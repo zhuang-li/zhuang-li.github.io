@@ -70,7 +70,7 @@ My supervision is centred on **Trustworthy LLMs**, **Domain-grounded AI**, and *
 ## Academic Service
 
 - Senior Area Chair, EMNLP 2026
-- Area Chair, NeurIPS 2026, ACL Rolling Review, and NLPCC
+- Area Chair, NeurIPS 2026, ACL Rolling Review, and NLPCC 2026
 - Program Chair, PersonaLLM Workshop at NeurIPS 2025; Publication Chair, ALTA Workshop 2026; Shared Task Organizer, ALTA 2024
 - Reviewer for ACL, EMNLP, NAACL, EACL, ICLR, NeurIPS, AAAI, IJCAI, and related NLP/AI venues
 

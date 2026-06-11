@@ -14,7 +14,7 @@ redirect_from:
 ### Chairing
 
 - **Senior Area Chair**: EMNLP 2026
-- **Area Chair**: NeurIPS 2026, ACL Rolling Review 2025–2026, NLPCC
+- **Area Chair**: NeurIPS 2026, ACL Rolling Review 2025–2026, NLPCC 2026
 
 ### Conference and Workshop Organization
 
