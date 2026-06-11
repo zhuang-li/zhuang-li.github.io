@@ -43,7 +43,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 
 - **11/2025**:
   Our paper *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement* received the EMNLP 2025 Outstanding Paper Award, one of seven such awards among 3,200+ accepted papers.
-  Built on our previous FACTUAL work and integrated into FactualSceneGraph, which now has 171,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
+  Built on our previous FACTUAL work and integrated into FactualSceneGraph, which now has 240,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
   *Links:* [Official repo](https://github.com/shaoqlin/discosg) · [FactualSceneGraph toolkit](https://github.com/zhuang-li/FactualSceneGraph)
 
 - **10/2025**:

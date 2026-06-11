@@ -35,8 +35,8 @@ redirect_from:
 ## Software and Open Source Contributions
 
 - **[FactualSceneGraph](https://github.com/zhuang-li/FactualSceneGraph)**
-  Toolkit for faithful and consistent textual scene-graph parsing. The project grew out of the FACTUAL benchmark, supports subsequent work on discourse-level scene graph parsing, and has reached 171,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
-  [Repository](https://github.com/zhuang-li/FactualSceneGraph)
+  Toolkit for faithful and consistent textual scene-graph parsing, connecting single-sentence FACTUAL parsing with discourse-level DiscoSG refinement. It has reached 240,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
+  [Repository](https://github.com/zhuang-li/FactualSceneGraph) · [FACTUAL paper, Findings of ACL 2023](https://aclanthology.org/2023.findings-acl.398/) · [DiscoSG paper, EMNLP 2025 Outstanding Paper Award](https://aclanthology.org/2025.emnlp-main.398/)
 
 - **[StarCoder 2 / The Stack v2](https://github.com/bigcode-project/starcoder2)**
   Contributor to the BigCode open-science code LLM and corpus initiative. The Stack v2 spans 619 programming languages and underpins StarCoder2 models trained on 3.3-4.3T tokens, with model weights released for responsible open research and development.
