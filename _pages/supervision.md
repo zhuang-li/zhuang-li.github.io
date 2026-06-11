@@ -13,16 +13,6 @@ redirect_from:
 
 My supervision is centred on three connected themes: **Trustworthy LLMs**, **Domain-grounded AI**, and **Structured NLP**.
 
-### External Co-supervision
-
-- **Thanh Pham** (PhD Student, Monash University, 2024–present)
-  - **Research**: Culturally aware LLMs
-  - **Co-supervisors**: Dr. Lizhen Qu, Prof. Reza Haffari
-
-- **Sai Ma** (Part-time PhD Student, Australian National University, 2024–present)
-  - **Research**: LLMs for geoscience
-  - **Co-supervisor**: Prof. John Taylor
-
 ### RMIT Co-supervision
 
 - **An Quang Tang** (PhD Student, RMIT University, 2025–present)
@@ -40,3 +30,13 @@ My supervision is centred on three connected themes: **Trustworthy LLMs**, **Dom
 - **Zhen Qian** (PhD Student, RMIT University, 2026–present)
   - **Research**: Scientific fact checking
   - **Co-supervisor**: Prof. Jenny Zhang
+
+### External Co-supervision
+
+- **Thanh Pham** (PhD Student, Monash University, 2024–present)
+  - **Research**: Culturally aware LLMs
+  - **Co-supervisors**: Dr. Lizhen Qu, Prof. Reza Haffari
+
+- **Sai Ma** (Part-time PhD Student, Australian National University, 2024–present)
+  - **Research**: LLMs for geoscience
+  - **Co-supervisor**: Prof. John Taylor
