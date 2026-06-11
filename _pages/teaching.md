@@ -10,7 +10,7 @@ author_profile: true
 ## RMIT University
 
 - **ISYS1079 / ISYS3476: Managing Semi-structured and Unstructured Data**
-  **Role:** Lecturer and course coordinator. The course covers modern methods for working with semi-structured and unstructured data, including information extraction, retrieval, and LLM-centric data processing workflows.
+  **Role:** Lecturer and course coordinator. The course covers modern methods for working with semi-structured and unstructured data, including data preprocessing, cleaning, transformation, retrieval, and LLM-centric data processing workflows.
 
 - **COSC2610: Web Programming Studio**
   **Role:** Lecturer. The course develops practical web programming skills through studio-based learning and applied software development tasks.
