@@ -332,7 +332,9 @@ a:hover {
 }
 
 .sidebar {
+  position: relative;
   color: var(--site-muted);
+  z-index: 40;
 }
 
 @include breakpoint($large) {
@@ -370,8 +372,13 @@ a:hover {
   color: var(--site-muted);
 }
 
+.author__urls-wrapper {
+  z-index: 80;
+}
+
 .author__urls {
   color: var(--site-muted);
+  z-index: 90;
 }
 
 .author__urls li {
