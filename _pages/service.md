@@ -19,8 +19,8 @@ redirect_from:
 ### Conference and Workshop Organization
 
 - **Program Chair**: PersonaLLM Workshop at NeurIPS 2025
-- **Publication Chair**: Australasian Language Technology Association Workshop 2026
-- **Shared Task Organizer**: ALTA 2024, Detecting AI-Generated Sentences in Human–AI Hybrid Articles
+- **Publication Chair**: Australasian Language Technology Association (ALTA) Workshop 2026
+- **Shared Task Organizer**: ALTA 2024 Shared Task, Detecting AI-Generated Sentences in Human–AI Hybrid Articles
 
 ### Local Service
 
