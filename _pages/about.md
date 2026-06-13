@@ -18,9 +18,11 @@ Hello! I am Zhuang Li, a Lecturer at RMIT University and formerly a Research Fel
 
 I earned my PhD from Monash University, where I was mentored by Dr. Lizhen Qu, Prof. Gholamreza Haffari, and ACL Fellow Phil Cohen. I am now a Lecturer at RMIT University.
 
-My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS, and ICLR. I was a recipient of the **EMNLP 2025 Outstanding Paper Award**, one of seven such awards among 3,200+ accepted papers; according to publicly accessible EMNLP records, it appears to be the first confirmed EMNLP Outstanding Paper with Australia-based author affiliations.
+My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS, and ICLR. I was a recipient of the **EMNLP 2025 Outstanding Paper Award**, one of seven such awards among 3,200+ accepted papers, and the first confirmed Australia-affiliated EMNLP Outstanding Paper.
 
-I have also collaborated with industry partners, including Ant International (Singapore), on LLM safety evaluation and red teaming, resulting in publications at ACL and NeurIPS.
+I have also collaborated with industry partners, including Ant International (Singapore) on trustworthy LLMs, and Openstream.ai on semantic parsing and dialogue systems. These collaborations have led to publications at ACL, EACL, and NeurIPS, as well as a US patent application on LLM post-editing.
+
+I am also a co-applicant on the Wellcome Trust AI4You(th) project, in partnership with Google Health, on safe clinical LLMs for youth mental health.
 
 I also contribute to the research community through service roles, including **Senior Area Chair for EMNLP 2026**, Area Chair for NeurIPS 2026, ACL Rolling Review, and NLPCC 2026, and Publication Chair for ALTA 2026.
 
@@ -42,7 +44,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
   Serving as Senior Area Chair for EMNLP 2026.
 
 - **11/2025**:
-  Our paper *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement* received the EMNLP 2025 Outstanding Paper Award, one of seven such awards among 3,200+ accepted papers. According to publicly accessible EMNLP records, it appears to be the first confirmed EMNLP Outstanding Paper with Australia-based author affiliations.
+  Our paper *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement* received the EMNLP 2025 Outstanding Paper Award, one of seven such awards among 3,200+ accepted papers; it is the first confirmed Australia-affiliated EMNLP Outstanding Paper.
   Built on our previous FACTUAL work and integrated into FactualSceneGraph, which now has 240,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
   *Links:* [DiscoSG paper](https://aclanthology.org/2025.emnlp-main.398/) · [FACTUAL paper](https://aclanthology.org/2023.findings-acl.398/) · [DiscoSG repo](https://github.com/shaoqlin/discosg) · [FactualSceneGraph toolkit](https://github.com/zhuang-li/FactualSceneGraph)
 
