@@ -20,7 +20,7 @@ I earned my PhD from Monash University, where I was mentored by Dr. Lizhen Qu, P
 
 My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS, and ICLR. I was a recipient of the **EMNLP 2025 Outstanding Paper Award**, one of seven such awards among 3,200+ accepted papers, and the first confirmed Australia-affiliated EMNLP Outstanding Paper.
 
-I have also collaborated with industry partners, including Ant International (Singapore) on trustworthy LLMs, and Openstream.ai on semantic parsing and dialogue systems. These collaborations have led to publications at ACL, EACL, and NeurIPS, as well as a US patent application on LLM post-editing.
+I have also worked with Ant International (Singapore) and Openstream.ai on industry-facing NLP/LLM projects, leading to ACL, EACL, and NeurIPS publications and a US patent application.
 
 I am also a co-applicant on the Wellcome Trust AI4You(th) project, in partnership with Google Health, on safe clinical LLMs for youth mental health.
 
