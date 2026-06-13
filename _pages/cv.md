@@ -43,7 +43,7 @@ My research focuses on trustworthy agentic AI, large language model (LLM) safety
 
 - **Wellcome Trust AI4You(th) project**, co-applicant, on safe clinical LLMs for youth mental health; approximately AUD 6M total project funding.
 - **CSIRO Data61 Next Generation AI Graduate Program**, co-principal investigator, on AI for next-generation food and waste systems.
-- **EMNLP 2025 Outstanding Paper Award**, senior author, for *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement*; one of seven such awards among 3,200+ accepted papers.
+- **EMNLP 2025 Outstanding Paper Award**, senior author, for *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement*; one of seven such awards among 3,200+ accepted papers, and according to publicly accessible EMNLP records, the first confirmed EMNLP Outstanding Paper with Australia-based author affiliations.
 - **Monash Faculty of Information Technology Research Scholarship** and **International Postgraduate Research Scholarship**.
 
 ---

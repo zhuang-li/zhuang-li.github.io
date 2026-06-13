@@ -18,7 +18,7 @@ Hello! I am Zhuang Li, a Lecturer at RMIT University and formerly a Research Fel
 
 I earned my PhD from Monash University, where I was mentored by Dr. Lizhen Qu, Prof. Gholamreza Haffari, and ACL Fellow Phil Cohen. I am now a Lecturer at RMIT University.
 
-My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS, and ICLR. I was a recipient of the **EMNLP 2025 Outstanding Paper Award**, one of seven such awards among 3,200+ accepted papers.
+My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS, and ICLR. I was a recipient of the **EMNLP 2025 Outstanding Paper Award**, one of seven such awards among 3,200+ accepted papers; according to publicly accessible EMNLP records, it appears to be the first confirmed EMNLP Outstanding Paper with Australia-based author affiliations.
 
 I have also collaborated with industry partners, including Ant International (Singapore), on LLM safety evaluation and red teaming, resulting in publications at ACL and NeurIPS.
 
@@ -42,7 +42,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
   Serving as Senior Area Chair for EMNLP 2026.
 
 - **11/2025**:
-  Our paper *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement* received the EMNLP 2025 Outstanding Paper Award, one of seven such awards among 3,200+ accepted papers.
+  Our paper *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement* received the EMNLP 2025 Outstanding Paper Award, one of seven such awards among 3,200+ accepted papers. According to publicly accessible EMNLP records, it appears to be the first confirmed EMNLP Outstanding Paper with Australia-based author affiliations.
   Built on our previous FACTUAL work and integrated into FactualSceneGraph, which now has 240,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
   *Links:* [DiscoSG paper](https://aclanthology.org/2025.emnlp-main.398/) · [FACTUAL paper](https://aclanthology.org/2023.findings-acl.398/) · [DiscoSG repo](https://github.com/shaoqlin/discosg) · [FactualSceneGraph toolkit](https://github.com/zhuang-li/FactualSceneGraph)
 
