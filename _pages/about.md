@@ -33,7 +33,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 <div class="news-block" role="region" aria-label="News" markdown="1">
 
 - **04/2026**:
-  Three ACL 2026 papers, including one main conference paper and two Findings papers, on LLM steering, alignment, and robustness were accepted.
+  Three ACL 2026 papers, including one main conference paper and two Findings papers, on LLM explainability, alignment, and robustness were accepted.
 
 - **03/2026**:
   I am a co-applicant on the Wellcome Trust AI4You(th) project on safe clinical LLMs for youth mental health, an approximately AUD 6M grant jointly secured by Orygen, the University of Melbourne, and RMIT University, in partnership with Google Health.
