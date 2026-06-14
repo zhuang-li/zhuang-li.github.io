@@ -20,7 +20,7 @@ I earned my PhD from Monash University, where I was mentored by Dr. Lizhen Qu, P
 
 My recent work has appeared in leading venues such as ACL, EMNLP, NAACL, NeurIPS, and ICLR. I was a recipient of the **EMNLP 2025 Outstanding Paper Award**, one of seven such awards among 3,200+ accepted papers, and the first confirmed Australia-affiliated EMNLP Outstanding Paper.
 
-My industry-engaged academic research includes projects involving Ant International (Singapore) and Openstream.ai, contributing to ACL, EACL, and NeurIPS publications and a US patent application. Separately, I am a co-applicant on the Wellcome Trust AI4You(th) project on safe clinical LLMs for youth mental health, with Google Health as a project partner.
+My industry-engaged academic research includes projects involving Ant International (Singapore) and Openstream.ai, contributing to ACL, EACL, and NeurIPS publications and two US patent filings. Separately, I am a co-applicant on the Wellcome Trust AI4You(th) project on safe clinical LLMs for youth mental health, with Google Health as a project partner.
 
 I also contribute to the research community through service roles, including **Senior Area Chair for EMNLP 2026**, Area Chair for NeurIPS 2026, ACL Rolling Review, and NLPCC 2026, and Publication Chair for ALTA 2026.
 
