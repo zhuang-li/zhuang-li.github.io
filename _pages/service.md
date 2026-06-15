@@ -50,6 +50,10 @@ redirect_from:
 
 ## Talks, Panels, and Workshops
 
+- **PersonaLLM Workshop at NeurIPS 2025**
+  Program Chair.
+  [Details](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop_Mexico_City/PersonaNLP)
+
 - **Cultural Alignment & Low-Resource Languages: Adapting LLMs for Diverse Cultures**
   Panel, International AI Cooperation and Governance Forum, 2025.
 
@@ -62,6 +66,3 @@ redirect_from:
 - **Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles**
   Shared Task at ALTA 2024, Canberra.
   [Details](https://www.alta.asn.au/events/sharedtask2024/)
-
-- **Context-Dependent Semantic Parsing**
-  Conference oral presentation, COLING 2020.
