@@ -679,8 +679,9 @@ a:hover {
   }
 
   .author__urls {
-    right: auto;
-    left: 0;
+    right: 0;
+    left: auto;
+    max-width: calc(100vw - 2rem);
   }
 
   .page,
