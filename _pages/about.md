@@ -48,7 +48,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 
 - **10/2025**:
   One paper on LLM safety was accepted to NeurIPS 2025, and our workshop proposal PersonaLLM was also accepted.
-  *Link:* [PersonaNLP workshop](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop_Mexico_City/PersonaNLP)
+  *Link:* [PersonaLLM workshop](https://personallmworkshop.github.io)
 
 - **09/2025**:
   Two EMNLP 2025 papers were accepted, including one in the main conference and one in Findings.

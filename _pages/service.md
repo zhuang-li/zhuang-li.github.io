@@ -52,7 +52,7 @@ redirect_from:
 
 - **PersonaLLM Workshop at NeurIPS 2025**
   Program Chair.
-  [Details](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop_Mexico_City/PersonaNLP)
+  [Details](https://personallmworkshop.github.io)
 
 - **Cultural Alignment & Low-Resource Languages: Adapting LLMs for Diverse Cultures**
   Panel, International AI Cooperation and Governance Forum, 2025.
