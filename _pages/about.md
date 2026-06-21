@@ -43,8 +43,8 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 
 - **11/2025**:
   Our paper *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement* received the EMNLP 2025 Outstanding Paper Award, one of seven such awards among 3,200+ accepted papers; it is the first confirmed Australia-affiliated EMNLP Outstanding Paper.
-  Built on our previous FACTUAL work and integrated into FactualSceneGraph, which now has 240,000+ PyPI downloads and 600,000+ model downloads on Hugging Face.
-  *Links:* [DiscoSG paper](https://aclanthology.org/2025.emnlp-main.398/) · [FACTUAL paper](https://aclanthology.org/2023.findings-acl.398/) · [DiscoSG repo](https://github.com/shaoqlin/discosg) · [FactualSceneGraph toolkit](https://github.com/zhuang-li/FactualSceneGraph)
+  Built on our previous FACTUAL work and integrated into FactualSceneGraph, a toolkit available through GitHub and PyPI.
+  *Links:* [DiscoSG paper](https://aclanthology.org/2025.emnlp-main.398/) · [FACTUAL paper](https://aclanthology.org/2023.findings-acl.398/) · [DiscoSG repo](https://github.com/shaoqlin/discosg) · [FactualSceneGraph toolkit](https://github.com/zhuang-li/FactualSceneGraph) · [PyPI](https://pypi.org/project/FactualSceneGraph/)
 
 - **10/2025**:
   One paper on LLM safety was accepted to NeurIPS 2025, and our workshop proposal PersonaLLM was also accepted.
