@@ -36,7 +36,7 @@ redirect_from:
 
 - **[FactualSceneGraph](https://github.com/zhuang-li/FactualSceneGraph)**
   Toolkit for faithful and consistent textual scene-graph parsing, connecting single-sentence FACTUAL parsing with discourse-level DiscoSG refinement.
-  [Repository](https://github.com/zhuang-li/FactualSceneGraph) · [![PyPI downloads](https://static.pepy.tech/badge/FactualSceneGraph)](https://pypi.org/project/FactualSceneGraph/) · [FACTUAL paper, Findings of ACL 2023](https://aclanthology.org/2023.findings-acl.398/) · [DiscoSG paper, EMNLP 2025 Outstanding Paper Award](https://aclanthology.org/2025.emnlp-main.398/)
+  [Repository](https://github.com/zhuang-li/FactualSceneGraph) · [![PyPI downloads](https://img.shields.io/pepy/dt/FactualSceneGraph?label=PyPI%20downloads)](https://pypi.org/project/FactualSceneGraph/) · [FACTUAL paper, Findings of ACL 2023](https://aclanthology.org/2023.findings-acl.398/) · [DiscoSG paper, EMNLP 2025 Outstanding Paper Award](https://aclanthology.org/2025.emnlp-main.398/)
 
 - **[StarCoder 2 / The Stack v2](https://github.com/bigcode-project/starcoder2)**
   Contributor to the BigCode open-science code LLM and corpus initiative. The Stack v2 spans 619 programming languages and underpins StarCoder2 models trained on 3.3-4.3T tokens, with model weights released for responsible open research and development.
