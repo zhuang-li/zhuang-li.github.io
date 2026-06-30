@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome!
 
-Hello! I am Zhuang Li, a Lecturer at RMIT University and formerly a Research Fellow at Monash University. My research focuses on large language model (LLM) safety, evaluation, and structured natural language processing (NLP), with an emphasis on building trustworthy and inspectable AI systems. I am particularly interested in making LLMs safer, more reliable, and easier to evaluate in real-world settings.
+Hello! I am Zhuang Li, a Lecturer at RMIT University and formerly a Research Fellow at Monash University. My research focuses on natural language processing (NLP), large language model (LLM) evaluation, trustworthy AI, and structured NLP, with an emphasis on reliability, robustness, explainability, and socially responsible AI systems. I am particularly interested in making LLMs more reliable, transparent, and easier to evaluate in real-world settings.
 
 ---
 
@@ -24,7 +24,7 @@ My industry-engaged academic research includes projects involving Ant Internatio
 
 I also contribute to the research community through service roles, including **Senior Area Chair for EMNLP 2026**, Area Chair for NeurIPS 2026, ACL Rolling Review, and NLPCC 2026, and Publication Chair for ALTA 2026.
 
-I am dedicated to developing trustworthy NLP systems and welcome collaboration in LLM safety, evaluation, and structured approaches to language understanding.
+I am dedicated to developing trustworthy NLP systems and welcome collaboration in LLM evaluation, reliable AI systems, and structured approaches to language understanding.
 
 ---
 
@@ -47,7 +47,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
   *Links:* [DiscoSG paper](https://aclanthology.org/2025.emnlp-main.398/) · [FACTUAL paper](https://aclanthology.org/2023.findings-acl.398/) · [DiscoSG repo](https://github.com/shaoqlin/discosg) · [FactualSceneGraph toolkit](https://github.com/zhuang-li/FactualSceneGraph) · [![PyPI downloads](https://img.shields.io/pepy/dt/FactualSceneGraph?label=PyPI%20downloads)](https://pypi.org/project/FactualSceneGraph/)
 
 - **10/2025**:
-  One paper on LLM safety was accepted to NeurIPS 2025, and our workshop proposal PersonaLLM was also accepted.
+  One paper on LLM evaluation and alignment was accepted to NeurIPS 2025, and our workshop proposal PersonaLLM was also accepted.
   *Link:* [PersonaLLM workshop](https://personallmworkshop.github.io)
 
 - **09/2025**:
@@ -77,7 +77,7 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 
 ## Research Interests
 
-- LLM safety and evaluation
+- LLM evaluation, reliability, and trustworthy AI
 - Structured NLP and semantic parsing
 - Efficient adaptation and data synthesis
 
@@ -85,11 +85,11 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 
 ## Collaboration and Supervision
 
-I am eager to collaborate on innovative NLP and machine learning projects, particularly in LLM safety, evaluation, red teaming, structured NLP, and trustworthy AI systems.
+I am eager to collaborate on innovative NLP and machine learning projects, particularly in LLM evaluation, reliability, structured NLP, data-centric adaptation, and trustworthy AI systems.
 
 I welcome collaboration with:
 - Remote interns with strong research backgrounds for collaborative projects
-- Industry partners interested in practical challenges in LLM safety and trustworthy language technologies
+- Industry partners interested in practical challenges in LLM evaluation, reliability, and trustworthy language technologies
 
 For PhD supervision at RMIT, I collaborate with senior faculty members at RMIT as part of the supervision team. I welcome applications for:
 - Grant-funded students (subject to grant availability)

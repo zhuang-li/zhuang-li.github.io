@@ -11,7 +11,7 @@ redirect_from:
 
 ## Research Profile
 
-My research focuses on trustworthy agentic AI, large language model (LLM) safety and evaluation, and structured natural language processing (NLP) under limited or evolving supervision. I develop data-centric methods for building controllable, inspectable, and auditable AI systems, with applications in high-stakes domains such as clinical decision support, financial services, and public-sector AI.
+My research focuses on natural language processing (NLP), large language model (LLM) evaluation, trustworthy AI, and structured NLP under limited or evolving supervision. I develop data-centric methods for building reliable, robust, inspectable, and auditable AI systems, with applications in clinical decision support, financial services, and public-sector AI.
 
 ---
 
