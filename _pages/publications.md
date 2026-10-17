@@ -131,9 +131,9 @@ My name is highlighted as **Z Li**. Symbols: ✦ first or co-first author; ‡ s
 
 ## Patents and Theses
 
-1. **Z Li**, G Haffari, R Tumuluri, P R Cohen. "System and Method for Active Learning Based Multilingual Semantic Parser." US Patent 12,548,554, granted 2026.
+1. **Z Li**, G Haffari, R Tumuluri, P R Cohen. "System and Method for Active Learning Based Multilingual Semantic Parser." [US Patent 12,548,554 B2](https://patentsgazette.uspto.gov/week06/OG/html/1543-2/US12548554-20260210.html), granted 10 February 2026.
 
-2. **Z Li**, R Tumuluri, G Haffari. "System and Method of Programmer-Interpreter Approach for Large Language Model Post-Editing." US Patent Application 18/756,077, filed 2025.
+2. **Z Li**, R Tumuluri, G Haffari. "System and Method of Programmer-Interpreter Approach for Large Language Model Post-Editing." [US Patent 12,664,361 B2](https://patentsgazette.uspto.gov/week25/OG/html/1547-4/US12664361-20260623.html), granted 23 June 2026.
 
 3. **Z Li**. [Semantic Parsing in Limited Resource Conditions](https://bridges.monash.edu/articles/thesis/Semantic_Parsing_in_Limited_Resource_Conditions/24083265). PhD thesis, Monash University, 2023.
 
