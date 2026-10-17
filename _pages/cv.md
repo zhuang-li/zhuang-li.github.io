@@ -39,11 +39,17 @@ My research focuses on natural language processing (NLP), large language model (
 
 ---
 
-## Selected Funding and Awards
+## Selected Funding
 
-- **EMNLP 2026 Outstanding Senior Area Chair Award**, for service as Senior Area Chair.
 - **Wellcome Trust AI4You(th) project**, co-applicant, on safe clinical LLMs for youth mental health; approximately AUD 6M total project funding, in partnership with Google Health.
 - **CSIRO Data61 Next Generation AI Graduate Program**, co-principal investigator, on AI for next-generation food and waste systems.
+
+---
+
+## Honours and Recognition
+
+- Selected for **AJCAI 2026 New Faculty Highlights**.
+- **EMNLP 2026 Outstanding Senior Area Chair Award**, for service as Senior Area Chair.
 - **EMNLP 2025 Outstanding Paper Award**, senior author, for *DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement*; one of seven such awards among 3,200+ accepted papers; first confirmed Australia-affiliated EMNLP Outstanding Paper.
 - **Monash Faculty of Information Technology Research Scholarship** and **International Postgraduate Research Scholarship**.
 
