@@ -33,10 +33,10 @@ I am dedicated to developing trustworthy NLP systems and welcome collaboration i
 <div class="news-block" role="region" aria-label="News" markdown="1">
 
 - **10/2026**:
-  Two papers were accepted to EMNLP 2026 (one in Findings and one in the Industry Track), and one to the NeurIPS 2026 Evaluations & Datasets Track.
+  I was recognised as an EMNLP 2026 Outstanding Senior Area Chair and selected for AJCAI 2026 New Faculty Highlights.
 
 - **10/2026**:
-  I was recognised as an EMNLP 2026 Outstanding Senior Area Chair and selected for AJCAI 2026 New Faculty Highlights.
+  Two papers were accepted to EMNLP 2026 (one in Findings and one in the Industry Track), and one to the NeurIPS 2026 Evaluations & Datasets Track.
 
 - **04/2026**:
   Three ACL 2026 papers, including one main conference paper and two Findings papers, on LLM explainability, alignment, and robustness were accepted.
