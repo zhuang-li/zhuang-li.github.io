@@ -11,11 +11,11 @@ My name is highlighted as **Z Li**. Symbols: ✦ first or co-first author; ‡ s
 
 ### 2026
 
-1. L Zheng, X Zhang, S He, F Li, C Teng, J Yang, D Ji, **Z Li**. "[Are Emotion and Rhetoric Neurons in LLM? Neuron Recognition and Adaptive Masking for Emotion-Rhetoric Prediction Steering](https://arxiv.org/abs/2604.17255)." To appear in ACL 2026 (Oral). [CORE A*] ‡
+1. L Zheng, X Zhang, S He, F Li, C Teng, J Yang, D Ji, **Z Li**. "[Are Emotion and Rhetoric Neurons in LLM? Neuron Recognition and Adaptive Masking for Emotion-Rhetoric Prediction Steering](https://aclanthology.org/2026.acl-long.193/)." ACL 2026 (Oral). [CORE A*] ‡
 
-2. M-V Nguyen, F Shiri, **Z Li**, K Verspoor. "[How Robust Are Large Language Models for Clinical Numeracy? An Empirical Study on Numerical Reasoning Abilities in Clinical Contexts](https://arxiv.org/abs/2604.11133)." To appear in Findings of ACL 2026. [CORE A*]
+2. M-V Nguyen, F Shiri, **Z Li**, K Verspoor. "[How Robust Are Large Language Models for Clinical Numeracy? An Empirical Study on Numerical Reasoning Abilities in Clinical Contexts](https://aclanthology.org/2026.findings-acl.901/)." Findings of ACL 2026. [CORE A*]
 
-3. V T Pham, L Qu, **Z Li**, G Haffari. "[Evidence-based Distributional Alignment for Large Language Models](https://arxiv.org/abs/2603.13305)." To appear in Findings of ACL 2026. [CORE A*]
+3. V T Pham, L Qu, **Z Li**, G Haffari. "[Distributional Alignment for Large Language Models under Domain Shift](https://aclanthology.org/2026.findings-acl.1026/)." Findings of ACL 2026. [CORE A*]
 
 4. S Ma, **Z Li**, J A Taylor. "[Landsat30-AU: A Vision-Language Dataset for Australian Landsat Imagery](https://doi.org/10.1609/aaai.v40i10.37724)." AAAI 2026. [CORE A*]
 
