@@ -13,7 +13,7 @@ redirect_from:
 
 ### Chairing
 
-- **Senior Area Chair**: EMNLP 2026
+- **Senior Area Chair**: EMNLP 2026 (Outstanding Senior Area Chair Award)
 - **Area Chair**: NeurIPS 2026, ACL Rolling Review 2025–2026, NLPCC 2026
 
 ### Conference and Workshop Organization
@@ -49,6 +49,9 @@ redirect_from:
 ---
 
 ## Talks, Panels, and Workshops
+
+- **AJCAI 2026 New Faculty Highlights**
+  Selected speaker, November 2026.
 
 - **PersonaLLM Workshop at NeurIPS 2025**
   Program Chair.
